@@ -1,0 +1,1677 @@
+Sexe;Age;Statut;Occupation;Qualification;Etudie;NombreFS;NombreE;Jardinage;Cuisine;Sport;MinutesTV;LectureBD;MinutesL;EcouteRP;JournalIntime;Taille;Flag_enfant
+H;36;Marie;Exerce profession;Ouvrier specialise;Non;2;1;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;86;Veuf;Autre inactif;Ouvrier specialise;Non;2;6;Non;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;53;Marie;Autre inactif;Employe de bureau;Non;4;3;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;46;Marie;Exerce profession;Ouvrier qualifie;Non;9;1;Non;Oui;Non;0,0;Non;120,0;Non;Non;Pas assez;1
+F;28;Celibataire;Exerce profession;Autre;Reprise de formation;2;0;Non;Non;Oui;180,0;Non;120,0;Non;Non;Comme il faut;0
+H;46;Marie;Exerce profession;Profession intermediaire;Non;4;4;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;41;Marie;Exerce profession;Technicien;Non;4;0;Non;Non;Non;60,0;Oui;34,29;Non;Non;Comme il faut;0
+F;54;Marie;Autre inactif;Ouvrier specialise;Non;3;4;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;49;Marie;Autre inactif;Profession intermediaire;Non;1;2;Non;Oui;Oui;60,0;Oui;60,0;Non;Oui;Comme il faut;1
+H;39;Divorce;Exerce profession;Profession intermediaire;Non;2;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;42;Marie;Exerce profession;Cadre;Non;2;2;Non;Oui;Non;0,0;Non;0,0;Non;Oui;Pas assez;1
+F;66;Marie;Retraite;Employe de bureau;Non;0;3;Oui;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;37;Marie;Exerce profession;Cadre;Non;3;2;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;59;Marie;Autre inactif;Employe de bureau;Non;7;3;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;19;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;50;Marie;Exerce profession;Non concerne;Non;5;3;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;68;Marie;Retraite;Autre;Non;1;1;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;72;Marie;Autre inactif;Non concerne;Non;5;2;Non;Non;Non;60,0;Non;25,71;Non;Non;Comme il faut;1
+F;21;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Oui;51,43;Non;0,0;Non;Oui;Pas assez;0
+F;53;Marie;Exerce profession;Non concerne;Non;2;4;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;76;Marie;Retraite;Ouvrier qualifie;Non;14;10;Non;Non;Non;660,0;Non;0,0;Non;Non;Comme il faut;1
+H;22;Celibataire;Exerce profession;Ouvrier specialise;Non;4;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;30;Celibataire;Autre inactif;Non concerne;Non;2;0;Non;Non;Oui;180,0;Non;0,0;Non;Oui;Pas assez;0
+F;55;Divorce;Exerce profession;Employe de bureau;Non;4;2;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;64;Marie;Retraite;Profession intermediaire;Non;3;4;Non;Non;Non;25,71;Non;0,0;Non;Non;Comme il faut;1
+F;23;Celibataire;Exerce profession;Ouvrier qualifie;Non;1;0;Non;Oui;Oui;360,0;Non;0,0;Non;Oui;Pas assez;0
+F;39;Marie;Exerce profession;Employe de bureau;Non;2;2;Non;Oui;Oui;0,0;Non;60,0;Non;Non;Pas assez;1
+F;72;Marie;Retraite;Employe de bureau;Non;3;1;Non;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;18;Celibataire;Etudiant;Non concerne;formation initiale;4;0;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;45;Marie;Exerce profession;Autre;Non;1;5;Non;Non;Non;8,57;Oui;60,0;Non;Oui;Comme il faut;1
+H;42;Marie;Exerce profession;Cadre;Non;4;2;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;64;Marie;Retraite;Profession intermediaire;Non;0;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;53;Marie;Exerce profession;Non concerne;Non;7;2;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;68;Marie;Retraite;Cadre;Non;3;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;54;Celibataire;Exerce profession;Non concerne;Non;1;0;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;73;Divorce;Retraite;Ouvrier qualifie;Non;3;6;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;27;Marie;Exerce profession;Employe de bureau;Non;1;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;47;Celibataire;Exerce profession;Ouvrier specialise;Non;3;1;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;20;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Oui;300,0;Non;0,0;Non;Non;Comme il faut;0
+H;74;Marie;Retraite;Employe de bureau;Non;1;1;Non;Non;Non;240,0;Non;8,57;Non;Non;Pas assez;1
+H;52;Marie;Exerce profession;Profession intermediaire;Non;1;4;Oui;Oui;Non;25,71;Oui;120,0;Non;Non;Comme il faut;1
+H;65;Marie;Retraite;Ouvrier qualifie;Non;12;2;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;33;Celibataire;Exerce profession;Ouvrier qualifie;Non;6;0;Oui;Non;Oui;25,71;Non;0,0;Non;Oui;Comme il faut;0
+H;41;Marie;Exerce profession;Cadre;Non;2;1;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;30;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Non;Non;Non;360,0;Non;0,0;Non;Non;Comme il faut;0
+F;40;Celibataire;Chomeur;Employe de bureau;Non;1;1;Non;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;64;Marie;Retraite;Employe de bureau;Non;3;2;Non;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;55;Veuf;Exerce profession;Autre;Non;2;2;Oui;Oui;Non;180,0;Non;8,57;Non;Non;Comme il faut;1
+F;34;Marie;Autre inactif;Technicien;Non;3;4;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+H;36;Marie;Exerce profession;Ouvrier qualifie;Non;2;2;Oui;Oui;Non;128,57;Non;0,0;Non;Non;Comme il faut;1
+H;40;Celibataire;Exerce profession;Ouvrier qualifie;Non;4;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;36;Celibataire;Autre inactif;Employe de bureau;Non;3;2;Non;Non;Non;180,0;Non;25,71;Non;Non;Comme il faut;1
+F;62;Veuf;Retraite;Employe de bureau;Non;0;2;Oui;Oui;Non;240,0;Non;60,0;Non;Non;Comme il faut;1
+F;44;Marie;Exerce profession;Profession intermediaire;Non;2;3;Non;Non;Non;300,0;Non;51,43;Non;Non;Comme il faut;1
+H;53;Marie;Exerce profession;Non concerne;Non;7;0;Oui;Oui;Non;60,0;Non;34,29;Non;Non;Comme il faut;0
+H;24;Celibataire;Exerce profession;Ouvrier qualifie;Non;4;0;Non;Non;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;0
+F;29;Marie;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Non;85,71;Non;0,0;Non;Oui;Comme il faut;1
+F;64;Veuf;Retraite;Employe de bureau;Non;3;9;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;41;Marie;Autre inactif;Ouvrier qualifie;Non;2;3;Oui;Oui;Non;0,0;Non;120,0;Non;Oui;Comme il faut;1
+H;32;Celibataire;Exerce profession;Technicien;Non;2;0;Non;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;0
+F;73;Marie;Autre inactif;Non concerne;Non;0;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;57;Marie;Autre inactif;Ouvrier qualifie;Non;5;4;Non;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;39;Celibataire;Exerce profession;Employe de bureau;Non;5;1;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;62;Marie;Retraite;Employe de bureau;Non;8;3;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;58;Divorce;Retraite;Profession intermediaire;Non;2;5;Non;Non;Non;480,0;Oui;120,0;Non;Non;Comme il faut;1
+F;19;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;0
+F;54;Celibataire;Exerce profession;Cadre;Non;1;2;Non;Oui;Oui;60,0;Non;68,57;Non;Non;Comme il faut;1
+H;42;Marie;Exerce profession;Profession intermediaire;Non;3;2;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+F;28;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Oui;60,0;Non;0,0;Oui;Non;Comme il faut;0
+F;29;Celibataire;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Non;360,0;Non;0,0;Non;Non;Trop;1
+H;18;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;0
+F;21;Celibataire;Chomeur;Non concerne;Non;0;0;Non;Non;Oui;180,0;Oui;120,0;Non;Oui;Pas assez;0
+F;61;Marie;Retraite;Employe de bureau;Non;1;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;68;Marie;Retraite;Cadre;Non;3;1;Non;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;29;Marie;Exerce profession;Cadre;Non;1;2;Non;Non;Non;180,0;Non;60,0;Non;Non;Comme il faut;1
+F;31;Celibataire;Autre inactif;Non concerne;Non;10;1;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;64;Marie;Retraite;Ouvrier qualifie;Non;4;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;26;Celibataire;Autre inactif;Ouvrier specialise;Non;2;0;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;60;Marie;Retraite;Ouvrier specialise;Non;10;6;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;37;Marie;Autre inactif;Ouvrier qualifie;Non;5;4;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;71;Veuf;Retraite;Ouvrier specialise;Non;15;1;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;79;Marie;Retraite;Profession intermediaire;Non;5;1;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;69;Divorce;Retraite;Cadre;Non;3;1;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;49;Marie;Exerce profession;Profession intermediaire;Non;0;2;Oui;Oui;Non;120,0;Non;60,0;Non;Non;Pas assez;1
+H;38;Celibataire;Exerce profession;Cadre;Reprise de formation;3;0;Non;Non;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;0
+F;25;Marie;Exerce profession;Employe de bureau;Non;2;0;Non;Non;Oui;240,0;Non;0,0;Non;Oui;Comme il faut;0
+H;53;Marie;Exerce profession;Cadre;Non;2;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;65;Marie;Retraite;Employe de bureau;Non;7;1;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;45;Marie;Exerce profession;Cadre;Non;2;2;Oui;Non;Oui;120,0;Non;0,0;Non;Oui;Pas assez;1
+F;31;Celibataire;Autre inactif;Employe de bureau;Non;3;0;Non;Non;Non;0,0;Non;0,0;Non;Non;Refus;0
+H;56;Marie;Exerce profession;Ouvrier qualifie;Non;1;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;56;Marie;Exerce profession;Employe de bureau;Non;4;1;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;62;Veuf;Exerce profession;Employe de bureau;Non;1;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Exerce profession;Employe de bureau;Non;0;3;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;43;Celibataire;Exerce profession;Non concerne;Non;1;0;Non;Non;Non;300,0;Non;0,0;Non;Non;Pas assez;0
+H;50;Marie;Exerce profession;Cadre;Non;1;2;Oui;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;26;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Oui;Oui;240,0;Non;0,0;Oui;Non;Comme il faut;0
+F;19;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;0
+F;48;Marie;Exerce profession;Profession intermediaire;Non;7;4;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Exerce profession;Employe de bureau;Non;3;1;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;58;Marie;Exerce profession;Cadre;Non;2;0;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Pas assez;0
+F;83;Veuf;Au foyer;Non concerne;Non;4;1;Non;Non;Non;300,0;Non;120,0;Non;Non;Comme il faut;1
+F;83;Veuf;Autre inactif;Cadre;Non;3;1;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;41;Celibataire;Exerce profession;Technicien;Non;5;2;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;42;Marie;Autre inactif;Employe de bureau;Non;2;3;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;43;Marie;Exerce profession;Ouvrier qualifie;Non;5;0;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;48;Marie;Exerce profession;Employe de bureau;Non;8;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+H;50;Marie;Exerce profession;Ouvrier qualifie;Non;1;3;Oui;Non;Oui;60,0;Non;60,0;Non;Non;Comme il faut;1
+H;42;Celibataire;Chomeur;Ouvrier specialise;Non;1;4;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;57;Marie;Exerce profession;Cadre;Non;1;1;Non;Non;Non;51,43;Non;60,0;Non;Oui;Comme il faut;1
+H;23;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;46;Marie;Exerce profession;Non concerne;Non;1;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;28;Marie;Autre inactif;Employe de bureau;Non;1;2;Non;Non;Non;240,0;Non;0,0;Oui;Oui;Pas assez;1
+H;34;Marie;Exerce profession;Cadre;Non;1;1;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;55;Marie;Retraite;Employe de bureau;Non;3;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;40;Marie;Autre inactif;Employe de bureau;Non;7;4;Non;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;22;Celibataire;Exerce profession;Ouvrier specialise;Non;6;0;Non;Non;Oui;300,0;Non;0,0;Non;Non;Comme il faut;0
+F;58;Marie;Autre inactif;Non concerne;Non;7;5;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;48;Marie;Exerce profession;Cadre;Non;5;1;Oui;Non;Oui;85,71;Non;0,0;Non;Non;Comme il faut;1
+H;50;Divorce;Exerce profession;Employe de bureau;Non;2;0;Oui;Non;Non;0,0;Non;120,0;Non;Oui;Comme il faut;0
+F;81;Veuf;Au foyer;Non concerne;Non;6;4;Non;Non;Non;180,0;Non;60,0;Non;Non;Comme il faut;1
+H;26;Celibataire;Exerce profession;Non concerne;Non;1;0;Non;Non;Non;34,29;Non;0,0;Non;Oui;Comme il faut;0
+H;49;Marie;Exerce profession;Cadre;Non;3;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;42;Celibataire;Autre inactif;Employe de bureau;Non;2;0;Non;Non;Oui;0,0;Non;0,0;Non;Non;Pas assez;0
+H;54;Marie;Exerce profession;Employe de bureau;Non;2;2;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;65;Marie;Retraite;Ouvrier qualifie;Non;2;0;Non;Oui;Non;360,0;Non;0,0;Non;Non;Comme il faut;0
+H;23;Celibataire;Exerce profession;Ouvrier specialise;Non;2;0;Non;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;0
+F;42;Celibataire;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;70;Marie;Retraite;Cadre;Non;0;3;Oui;Non;Non;180,0;Non;180,0;Non;Non;Pas assez;1
+H;67;Marie;Au foyer;Non concerne;Non;8;1;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;33;Marie;Exerce profession;Employe de bureau;Non;4;2;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;71;Marie;Retraite;Profession intermediaire;Non;1;2;Oui;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;67;Veuf;Au foyer;Non concerne;Non;2;3;Oui;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;68;Marie;Retraite;Employe de bureau;Non;2;2;Non;Non;Non;120,0;Non;60,0;Non;Non;Comme il faut;1
+H;37;Marie;Exerce profession;Ouvrier qualifie;Non;7;3;Oui;Oui;Non;60,0;Oui;60,0;Non;Non;Pas assez;1
+F;74;Marie;Retraite;Employe de bureau;Non;0;2;Non;Non;Non;0,0;Non;120,0;Non;Non;Comme il faut;1
+H;39;Celibataire;Exerce profession;Non concerne;Non;1;1;Non;Oui;Non;51,43;Oui;60,0;Non;Non;Comme il faut;1
+H;21;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;60;Marie;Retraite;Ouvrier qualifie;Non;5;2;Oui;Oui;Oui;0,0;Non;0,0;Non;Non;Pas assez;1
+H;32;Marie;Exerce profession;Profession intermediaire;Non;2;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;63;Marie;Retraite;Profession intermediaire;Non;4;2;Non;Oui;Oui;0,0;Non;0,0;Non;Non;Pas assez;1
+H;46;Divorce;Exerce profession;Technicien;Non;2;2;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;33;Celibataire;Exerce profession;Profession intermediaire;Non;2;0;Non;Oui;Oui;42,86;Non;0,0;Non;Oui;Comme il faut;0
+H;81;Marie;Retraite;Profession intermediaire;Non;0;4;Oui;Non;Non;180,0;Non;180,0;Non;Non;Comme il faut;1
+F;75;Marie;Au foyer;Technicien;Non;3;3;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Veuf;Chomeur;Employe de bureau;Non;6;1;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;26;Marie;Chomeur;Cadre;Non;2;1;Non;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;19;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;56;Marie;Exerce profession;Non concerne;Non;3;2;Non;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;57;Marie;Exerce profession;Cadre;Non;2;0;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;0
+H;44;Divorce;Exerce profession;Ouvrier specialise;Non;3;4;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;50;Marie;Exerce profession;Ouvrier specialise;Non;3;2;Oui;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+H;31;Marie;Exerce profession;Cadre;Non;1;1;Oui;Oui;Oui;51,43;Non;0,0;Non;Non;Comme il faut;1
+H;55;Marie;Exerce profession;Cadre;Non;3;2;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+H;29;Marie;Exerce profession;Employe de bureau;Non;4;2;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;75;Marie;Au foyer;Non concerne;Non;2;7;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;41;Marie;Exerce profession;Technicien;Non;1;4;Non;Non;Non;0,0;Non;120,0;Non;Oui;Comme il faut;1
+F;52;Marie;Exerce profession;Profession intermediaire;Non;4;1;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;80;Marie;Au foyer;Non concerne;Non;1;1;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;78;Veuf;Retraite;Ouvrier qualifie;Non;7;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;63;Marie;Au foyer;Non concerne;Non;4;3;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;51;Marie;Exerce profession;Technicien;Non;6;5;Oui;Non;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;53;Marie;Autre inactif;Ouvrier specialise;Non;8;3;Non;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;35;Marie;Exerce profession;Employe de bureau;Non;7;3;Oui;Non;Non;0,0;Non;6,0;Non;Non;Comme il faut;1
+H;39;Marie;Autre inactif;Non concerne;Non;3;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;36;Marie;Autre inactif;Non concerne;Non;3;2;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Autre inactif;Non concerne;Non;2;4;Non;Non;Oui;180,0;Non;0,0;Non;Oui;Comme il faut;1
+F;28;Marie;Autre inactif;Non concerne;Non;2;3;Oui;Non;Oui;180,0;Non;0,0;Oui;Non;Pas assez;1
+H;60;Marie;Retraite;Technicien;Non;0;1;Non;Non;Non;180,0;Non;120,0;Non;Non;Comme il faut;1
+H;56;Veuf;Exerce profession;Employe de bureau;Non;1;2;Non;Non;Oui;42,86;Non;0,0;Non;Non;Comme il faut;1
+F;35;Marie;Chomeur;Cadre;Non;1;2;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Pas assez;1
+F;64;Veuf;Retraite;Employe de bureau;Non;4;5;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;25;Celibataire;Exerce profession;Autre;Non;12;1;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;20;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Oui;Non;60,0;Non;0,0;Oui;Oui;Comme il faut;0
+F;93;Veuf;Au foyer;Non concerne;Non;6;0;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;0
+H;72;Marie;Retraite;Ouvrier qualifie;Non;3;3;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;78;Veuf;Retraite;Employe de bureau;Non;1;4;Oui;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;74;Veuf;Retraite;Employe de bureau;Non;1;6;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+H;19;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;72;Marie;Retraite;Ouvrier qualifie;Non;1;4;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;58;Marie;Exerce profession;Non concerne;Non;4;3;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;33;Celibataire;Chomeur;Cadre;Non;1;0;Non;Non;Non;34,29;Non;0,0;Non;Non;Comme il faut;0
+H;40;Marie;Exerce profession;Employe de bureau;Reprise de formation;12;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;27;Marie;Exerce profession;Employe de bureau;Non;4;1;Non;Oui;Non;120,0;Non;0,0;Non;Oui;Pas assez;1
+F;47;Divorce;Exerce profession;Non concerne;Non;2;3;Non;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;50;Marie;Autre inactif;Ouvrier specialise;Non;10;2;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;68;Marie;Retraite;Non concerne;Non;9;4;Oui;Oui;Non;60,0;Non;0,0;Non;Oui;Comme il faut;1
+H;20;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Non;Oui;8,57;Non;0,0;Non;Oui;Comme il faut;0
+H;45;Celibataire;Chomeur;Cadre;Non;3;0;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;0
+F;69;Divorce;Retraite;Profession intermediaire;Non;6;3;Non;Non;Oui;0,0;Non;0,0;Non;Oui;Pas assez;1
+F;79;Marie;Retraite;Employe de bureau;Non;5;4;Non;Oui;Non;120,0;Non;60,0;Non;Non;Comme il faut;1
+F;70;Marie;Retraite;Non concerne;Non;0;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;22;Celibataire;Exerce profession;Technicien;Non;1;0;Non;Non;Oui;180,0;Non;0,0;Oui;Oui;Comme il faut;0
+H;39;Marie;Exerce profession;Technicien;Non;3;2;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;50;Veuf;Exerce profession;Employe de bureau;Non;5;3;Non;Non;Non;360,0;Non;60,0;Non;Non;Comme il faut;1
+H;19;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;68;Divorce;Retraite;Cadre;Non;0;3;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;41;Marie;Exerce profession;Employe de bureau;Non;2;2;Non;Oui;Non;25,71;Non;0,0;Non;Oui;Comme il faut;1
+H;54;Marie;Exerce profession;Autre;Non;7;3;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;57;Marie;Retraite;Ouvrier qualifie;Non;4;4;Oui;Oui;Oui;300,0;Non;0,0;Non;Non;Pas assez;1
+F;71;Veuf;Au foyer;Non concerne;Non;1;2;Oui;Non;Non;0,0;Non;17,14;Non;Non;Comme il faut;1
+H;21;Celibataire;Exerce profession;Ouvrier specialise;Non;2;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;39;Marie;Exerce profession;Employe de bureau;Non;4;1;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;42;Marie;Chomeur;Cadre;Non;4;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;61;Marie;Retraite;Technicien;Non;1;2;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;65;Marie;Retraite;Cadre;Non;2;1;Non;Non;Oui;360,0;Non;120,0;Non;Non;Pas assez;1
+F;33;Marie;Exerce profession;Profession intermediaire;Non;1;2;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;46;Divorce;Exerce profession;Employe de bureau;Non;1;6;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;69;Marie;Retraite;Ouvrier qualifie;Non;4;4;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;79;Marie;Retraite;Non concerne;Non;10;2;Non;Oui;Non;240,0;Non;0,0;Non;Oui;Pas assez;1
+H;49;Marie;Autre inactif;Ouvrier qualifie;Non;1;0;Non;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;0
+H;42;Marie;Exerce profession;Employe de bureau;Non;3;3;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;23;Celibataire;Exerce profession;Employe de bureau;Non;0;0;Non;Oui;Oui;8,0;Non;0,0;Non;Non;Comme il faut;0
+H;29;Celibataire;Exerce profession;Technicien;Non;1;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;0
+F;58;Divorce;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;77;Veuf;Au foyer;Non concerne;Non;5;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;44;Celibataire;Exerce profession;Non concerne;Non;2;0;Oui;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;0
+H;47;Marie;Exerce profession;Profession intermediaire;Non;1;4;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;54;Veuf;Exerce profession;Employe de bureau;Non;0;3;Oui;Oui;Non;240,0;Oui;60,0;Non;Oui;Pas assez;1
+F;29;Divorce;Exerce profession;Employe de bureau;Non;1;1;Non;Non;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;37;Divorce;Exerce profession;Employe de bureau;Non;2;3;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;42;Celibataire;Autre inactif;Employe de bureau;Non;4;6;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;47;Marie;Exerce profession;Cadre;Non;0;2;Oui;Non;Oui;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;71;Veuf;Retraite;Employe de bureau;Non;11;2;Oui;Oui;Oui;300,0;Non;0,0;Non;Non;Pas assez;1
+H;30;Celibataire;Chomeur;Non concerne;Non;1;0;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;0
+H;50;Celibataire;Exerce profession;Employe de bureau;Non;3;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;28;Celibataire;Exerce profession;Employe de bureau;Reprise de formation;3;0;Non;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;0
+F;38;Marie;Exerce profession;Employe de bureau;Non;2;1;Non;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;41;Marie;Exerce profession;Technicien;Non;6;2;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+H;55;Divorce;Exerce profession;Cadre;Non;0;1;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;19;Celibataire;Etudiant;Non concerne;formation initiale;4;0;Non;Oui;Oui;300,0;Non;0,0;Non;Oui;Pas assez;0
+H;55;Marie;Exerce profession;Ouvrier qualifie;Non;2;3;Oui;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;46;Divorce;Exerce profession;Employe de bureau;Non;0;0;Oui;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;0
+H;35;Marie;Exerce profession;Employe de bureau;Non;4;3;Oui;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;44;Divorce;Exerce profession;Employe de bureau;Non;8;2;Oui;Non;Oui;25,71;Non;0,0;Non;Non;Pas assez;1
+F;66;Veuf;Autre inactif;Non concerne;Non;7;3;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;51;Celibataire;Retraite;Cadre;Non;1;0;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;71;Marie;Retraite;Cadre;Non;0;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Oui;Pas assez;1
+H;59;Marie;Chomeur;Profession intermediaire;Non;5;1;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;39;Marie;Exerce profession;Profession intermediaire;Non;3;3;Non;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+F;66;Marie;Retraite;Employe de bureau;Non;7;3;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;45;Marie;Exerce profession;Ouvrier qualifie;Non;1;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;45;Marie;Exerce profession;Employe de bureau;Non;2;2;Oui;Oui;Oui;360,0;Non;0,0;Non;Non;Pas assez;1
+F;29;Celibataire;Exerce profession;Employe de bureau;Non;11;1;Non;Non;Non;120,0;Non;0,0;Non;Non;Trop;1
+H;26;Celibataire;Exerce profession;Technicien;Non;2;0;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;0
+H;56;Divorce;Retraite;Ouvrier qualifie;Non;1;6;Non;Non;Non;240,0;Oui;300,0;Non;Non;Comme il faut;1
+H;51;Marie;Exerce profession;Ouvrier qualifie;Non;1;1;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;59;Marie;Autre inactif;Ouvrier specialise;Non;3;2;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;72;Marie;Retraite;Cadre;Non;1;2;Oui;Non;Non;180,0;Oui;120,0;Non;Non;Pas assez;1
+H;67;Marie;Retraite;Employe de bureau;Non;1;4;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Exerce profession;Cadre;Non;3;3;Oui;Oui;Oui;60,0;Non;120,0;Non;Non;Pas assez;1
+F;23;Celibataire;Exerce profession;Ouvrier qualifie;formation initiale;3;0;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;51;Marie;Exerce profession;Profession intermediaire;Non;3;4;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;59;Divorce;Chomeur;Ouvrier qualifie;Non;5;3;Oui;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;31;Celibataire;Exerce profession;Employe de bureau;Non;2;1;Non;Oui;Oui;240,0;Non;60,0;Non;Non;Pas assez;1
+H;50;Marie;Autre inactif;Non concerne;Non;1;2;Oui;Oui;Non;480,0;Non;34,29;Non;Non;Pas assez;1
+F;33;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Non;Oui;120,0;Non;120,0;Non;Oui;Comme il faut;0
+H;34;Celibataire;Exerce profession;Technicien;Non;1;0;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;20;Celibataire;Etudiant;Non concerne;formation initiale;3;0;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;0
+F;67;Marie;Retraite;Employe de bureau;Non;4;1;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;63;Celibataire;Retraite;Cadre;Non;0;0;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;0
+H;42;Marie;Exerce profession;Cadre;Non;3;1;Non;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;71;Marie;Retraite;Employe de bureau;Non;1;4;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+H;54;Celibataire;Exerce profession;Cadre;Non;0;0;Oui;Oui;Non;120,0;Non;0,0;Non;Oui;Comme il faut;0
+F;68;Veuf;Retraite;Profession intermediaire;Non;3;4;Oui;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;37;Marie;Exerce profession;Employe de bureau;Non;4;2;Non;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;34;Marie;Exerce profession;Cadre;Non;1;0;Non;Non;Oui;180,0;Non;0,0;Oui;Non;Pas assez;0
+F;83;Marie;Retraite;Employe de bureau;Non;1;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;45;Marie;Autre inactif;Non concerne;Non;2;4;Non;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;45;Celibataire;Exerce profession;Ouvrier specialise;Non;5;0;Oui;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;0
+H;53;Marie;Exerce profession;Cadre;Non;3;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;22;Celibataire;Exerce profession;Ouvrier qualifie;Non;2;0;Non;Non;Non;120,0;Non;0,0;Oui;Non;Comme il faut;0
+F;81;Veuf;Au foyer;Non concerne;Non;3;3;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;73;Marie;Retraite;Cadre;Non;0;0;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;31;Marie;Exerce profession;Cadre;Non;2;1;Non;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;78;Marie;Retraite;Employe de bureau;Non;0;3;Non;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;48;Marie;Exerce profession;Employe de bureau;Non;7;5;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;54;Marie;Exerce profession;Employe de bureau;Non;1;0;Non;Oui;Oui;240,0;Non;0,0;Non;Non;Pas assez;0
+F;48;Marie;Exerce profession;Employe de bureau;Non;1;2;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;49;Marie;Exerce profession;Non concerne;Non;4;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;64;Marie;Retraite;Employe de bureau;Non;1;0;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;44;Marie;Exerce profession;Ouvrier specialise;Non;4;2;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+F;37;Marie;Exerce profession;Employe de bureau;Non;1;2;Oui;Non;Oui;17,14;Non;0,0;Non;Non;Comme il faut;1
+H;49;Celibataire;Exerce profession;Technicien;Non;13;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;0
+H;38;Celibataire;Exerce profession;Ouvrier qualifie;Non;4;4;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;74;Veuf;Retraite;Non concerne;Non;2;4;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;50;Marie;Exerce profession;Cadre;Non;1;2;Oui;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;39;Marie;Autre inactif;Ouvrier specialise;Non;9;3;Oui;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;56;Marie;Exerce profession;Employe de bureau;Non;2;2;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;52;Marie;Exerce profession;Profession intermediaire;Non;0;1;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;84;Veuf;Autre inactif;Non concerne;Non;1;3;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;23;Celibataire;Exerce profession;Ouvrier qualifie;Non;2;0;Oui;Oui;Oui;360,0;Non;0,0;Non;Oui;Comme il faut;0
+F;46;Marie;Exerce profession;Employe de bureau;Non;4;2;Oui;Oui;Non;120,0;Non;60,0;Non;Non;Comme il faut;1
+F;61;Divorce;Retraite;Employe de bureau;Non;2;8;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;37;Celibataire;Exerce profession;Employe de bureau;Non;7;2;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;54;Marie;Exerce profession;Profession intermediaire;Non;1;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;63;Marie;Retraite;Cadre;Non;1;2;Oui;Oui;Non;240,0;Non;0,0;Non;Oui;Comme il faut;1
+H;54;Marie;Chomeur;Ouvrier qualifie;Non;4;6;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;19;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Oui;180,0;Non;0,0;Non;Oui;Comme il faut;0
+H;61;Marie;Retraite;Ouvrier qualifie;Non;4;4;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;67;Divorce;Retraite;Employe de bureau;Non;2;3;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;36;Marie;Exerce profession;Ouvrier qualifie;Non;4;6;Oui;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Exerce profession;Profession intermediaire;Non;4;2;Oui;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+H;33;Marie;Exerce profession;Non concerne;Non;2;2;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;20;Celibataire;Etudiant;Employe de bureau;Reprise de formation;3;0;Non;Oui;Non;42,86;Non;0,0;Non;Oui;Comme il faut;0
+H;45;Marie;Exerce profession;Cadre;Non;3;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;47;Marie;Exerce profession;Technicien;Non;3;2;Non;Non;Non;300,0;Non;0,0;Oui;Non;Comme il faut;1
+H;45;Marie;Exerce profession;Cadre;Non;8;3;Non;Oui;Oui;120,0;Non;60,0;Non;Non;Comme il faut;1
+H;52;Marie;Exerce profession;Cadre;Non;2;1;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;41;Celibataire;Exerce profession;Ouvrier qualifie;Non;5;0;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;0
+F;49;Veuf;Exerce profession;Employe de bureau;Non;9;2;Non;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+F;37;Celibataire;Exerce profession;Employe de bureau;Non;6;1;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;43;Divorce;Exerce profession;Employe de bureau;Non;2;2;Oui;Oui;Non;180,0;Non;51,43;Non;Non;Comme il faut;1
+F;36;Marie;Exerce profession;Cadre;Non;2;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;52;Marie;Exerce profession;Cadre;Non;2;3;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;45;Marie;Exerce profession;Employe de bureau;Non;4;2;Oui;Oui;Oui;240,0;Non;0,0;Non;Non;Pas assez;1
+F;29;Celibataire;Chomeur;Employe de bureau;Non;7;0;Non;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;0
+F;70;Marie;Autre inactif;Non concerne;Non;1;4;Oui;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;34;Divorce;Exerce profession;Employe de bureau;Non;1;0;Non;Oui;Oui;60,0;Non;0,0;Oui;Oui;Pas assez;0
+H;40;Marie;Chomeur;Ouvrier qualifie;Non;4;2;Non;Non;Non;120,0;Non;120,0;Non;Non;Comme il faut;1
+H;61;Marie;Retraite;Cadre;Non;5;4;Non;Non;Oui;120,0;Non;120,0;Non;Non;Comme il faut;1
+F;71;Veuf;Retraite;Employe de bureau;Non;3;3;Non;Oui;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+F;29;Marie;Autre inactif;Employe de bureau;Non;2;2;Non;Oui;Oui;60,0;Non;0,0;Non;Oui;Pas assez;1
+F;75;Marie;Retraite;Ouvrier qualifie;Non;9;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;27;Celibataire;Exerce profession;Cadre;Non;1;0;Non;Non;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;0
+H;18;Celibataire;Chomeur;Non concerne;Non;2;0;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;0
+H;54;Marie;Exerce profession;Ouvrier qualifie;Non;11;3;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;51;Divorce;Exerce profession;Employe de bureau;Non;8;4;Oui;Non;Non;222,86;Non;0,0;Non;Non;Pas assez;1
+F;49;Celibataire;Exerce profession;Profession intermediaire;Non;1;1;Non;Oui;Non;60,0;Non;120,0;Non;Non;Pas assez;1
+H;49;Marie;Exerce profession;Cadre;Non;3;2;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;49;Divorce;Chomeur;Cadre;Non;9;4;Non;Non;Oui;300,0;Non;180,0;Non;Non;Comme il faut;1
+H;53;Marie;Exerce profession;Ouvrier specialise;Non;8;5;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;24;Celibataire;Exerce profession;Profession intermediaire;Non;2;0;Non;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;0
+H;48;Marie;Exerce profession;Profession intermediaire;Non;0;2;Oui;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;34;Celibataire;Etudiant;Employe de bureau;Reprise de formation;2;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;53;Marie;Autre inactif;Employe de bureau;Non;3;2;Non;Non;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+H;28;Celibataire;Exerce profession;Profession intermediaire;Non;1;1;Non;Non;Oui;120,0;Oui;120,0;Non;Oui;Comme il faut;1
+F;48;Divorce;Chomeur;Autre;Non;16;1;Non;Non;Non;240,0;Non;0,0;Non;Oui;Comme il faut;1
+H;71;Marie;Retraite;Cadre;Non;2;3;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;39;Celibataire;Chomeur;Technicien;Non;2;2;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;21;Celibataire;Chomeur;Ouvrier specialise;Non;3;0;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;0
+F;63;Celibataire;Retraite;Cadre;Non;3;0;Non;Non;Oui;0,0;Non;0,0;Non;Oui;Comme il faut;0
+F;38;Marie;Exerce profession;Employe de bureau;Non;8;2;Non;Oui;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+H;65;Marie;Exerce profession;Autre;Non;11;4;Oui;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;47;Marie;Exerce profession;Technicien;Non;7;7;Non;Oui;Non;0,0;Non;0,0;Non;Non;Trop;1
+H;48;Divorce;Chomeur;Ouvrier specialise;Non;2;1;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;35;Celibataire;Exerce profession;Cadre;Non;2;0;Non;Oui;Oui;120,0;Non;0,0;Oui;Oui;Pas assez;0
+H;54;Marie;Exerce profession;Profession intermediaire;Non;2;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;59;Marie;Exerce profession;Non concerne;Non;10;2;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;78;Marie;Autre inactif;Non concerne;Non;2;3;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;32;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;0
+F;37;Marie;Exerce profession;Non concerne;Non;1;2;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;22;Celibataire;Exerce profession;Ouvrier specialise;Non;4;0;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;72;Marie;Retraite;Ouvrier qualifie;Non;5;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;27;Celibataire;Chomeur;Cadre;Non;0;0;Non;Non;Oui;60,0;Non;0,0;Non;Non;Pas assez;0
+F;73;Marie;Retraite;Non concerne;Non;3;4;Non;Oui;Non;240,0;Non;120,0;Non;Oui;Comme il faut;1
+F;39;Celibataire;Exerce profession;Cadre;Non;2;0;Oui;Oui;Non;85,71;Non;0,0;Non;Oui;Comme il faut;0
+F;67;Veuf;Autre inactif;Ouvrier specialise;Non;4;6;Non;Non;Non;360,0;Non;0,0;Non;Non;Pas assez;1
+F;25;Celibataire;Exerce profession;Employe de bureau;Non;6;0;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Pas assez;0
+F;58;Divorce;Autre inactif;Ouvrier specialise;Non;5;4;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;75;Marie;Autre inactif;Non concerne;Non;8;3;Non;Oui;Non;240,0;Non;25,71;Non;Oui;Comme il faut;1
+F;58;Marie;Autre inactif;Autre;Non;6;5;Non;Oui;Non;240,0;Non;60,0;Non;Oui;Comme il faut;1
+F;19;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Non;Oui;17,14;Non;0,0;Oui;Oui;Trop;0
+F;58;Marie;Autre inactif;Technicien;Non;1;2;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;24;Celibataire;Chomeur;Employe de bureau;Non;7;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;0
+F;18;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Oui;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;88;Marie;Retraite;Ouvrier qualifie;Non;8;3;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;40;Marie;Exerce profession;Technicien;Non;2;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;64;Marie;Retraite;Cadre;Non;3;0;Oui;Oui;Oui;120,0;Non;60,0;Non;Non;Comme il faut;0
+F;63;Marie;Chomeur;Employe de bureau;Non;1;3;Non;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;19;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Oui;Oui;180,0;Non;0,0;Non;Oui;Comme il faut;0
+F;87;Veuf;Retraite;Ouvrier specialise;Non;3;3;Non;Non;Non;180,0;Non;34,29;Non;Non;Comme il faut;1
+H;57;Marie;Exerce profession;Employe de bureau;Non;0;2;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;86;Marie;Au foyer;Non concerne;Non;1;1;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;33;Marie;Exerce profession;Ouvrier specialise;Non;3;2;Oui;Oui;Non;17,14;Non;0,0;Non;Oui;Comme il faut;1
+H;62;Divorce;Retraite;Cadre;Non;1;2;Oui;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;74;Marie;Retraite;Ouvrier qualifie;Non;2;4;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;50;Divorce;Exerce profession;Profession intermediaire;Non;2;1;Oui;Non;Non;8,57;Oui;60,0;Non;Non;Comme il faut;1
+F;31;Marie;Exerce profession;Employe de bureau;Non;3;2;Oui;Oui;Oui;120,0;Non;60,0;Non;Non;Comme il faut;1
+F;35;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Oui;Oui;68,57;Non;0,0;Oui;Non;Comme il faut;0
+H;42;Celibataire;Exerce profession;Employe de bureau;Non;1;3;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;40;Marie;Exerce profession;Employe de bureau;Non;1;1;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;45;Marie;Exerce profession;Profession intermediaire;Non;2;1;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;41;Marie;Exerce profession;Profession intermediaire;Non;4;2;Non;Oui;Non;120,0;Non;0,0;Non;Non;Trop;1
+H;21;Celibataire;Exerce profession;Ouvrier specialise;Non;4;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;0
+H;39;Marie;Exerce profession;Cadre;Non;2;1;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;66;Marie;Retraite;Employe de bureau;Non;7;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;58;Marie;Retraite;Cadre;Non;2;2;Non;Oui;Oui;120,0;Non;180,0;Non;Oui;Pas assez;1
+H;42;Celibataire;Exerce profession;Ouvrier qualifie;Non;1;3;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;55;Divorce;Retraite;Employe de bureau;Non;4;3;Non;Oui;Oui;180,0;Non;0,0;Non;Oui;Comme il faut;1
+H;75;Marie;Au foyer;Non concerne;Non;2;5;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;73;Celibataire;Retraite;Employe de bureau;Non;4;0;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;0
+H;45;Celibataire;Autre inactif;Ouvrier specialise;Non;5;0;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;39;Marie;Autre inactif;Ouvrier specialise;Non;5;3;Non;Non;Non;300,0;Non;0,0;Non;Non;Pas assez;1
+H;51;Marie;Exerce profession;Profession intermediaire;Non;5;2;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;46;Celibataire;Chomeur;Ouvrier specialise;Non;2;2;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;29;Celibataire;Exerce profession;Cadre;Non;1;0;Non;Oui;Oui;25,71;Non;0,0;Non;Non;Comme il faut;0
+H;29;Celibataire;Exerce profession;Profession intermediaire;Non;3;0;Non;Oui;Oui;60,0;Non;0,0;Non;Oui;Pas assez;0
+F;38;Celibataire;Autre inactif;Ouvrier qualifie;Non;4;6;Non;Non;Non;300,0;Non;60,0;Non;Non;Comme il faut;1
+F;47;Marie;Autre inactif;Ouvrier qualifie;Non;6;3;Oui;Oui;Non;300,0;Non;0,0;Non;Oui;Pas assez;1
+H;51;Marie;Exerce profession;Cadre;Non;2;2;Oui;Non;Oui;180,0;Non;42,86;Non;Non;Comme il faut;1
+H;40;Celibataire;Autre inactif;Technicien;Non;2;0;Non;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;0
+H;42;Celibataire;Exerce profession;Cadre;Non;2;0;Oui;Oui;Non;17,14;Non;0,0;Non;Oui;Comme il faut;0
+H;39;Marie;Exerce profession;Ouvrier qualifie;Non;1;3;Non;Oui;Non;171,43;Non;0,0;Non;Non;Comme il faut;1
+H;57;Marie;Exerce profession;Non concerne;Non;1;2;Oui;Oui;Non;42,86;Non;0,0;Non;Non;Pas assez;1
+F;77;Marie;Retraite;Ouvrier qualifie;Non;2;4;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;72;Divorce;Retraite;Ouvrier qualifie;Non;3;2;Non;Non;Non;480,0;Non;0,0;Non;Non;Pas assez;1
+H;43;Celibataire;Chomeur;Ouvrier specialise;Non;4;1;Oui;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;50;Veuf;Exerce profession;Employe de bureau;Non;3;2;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;47;Marie;Exerce profession;Ouvrier qualifie;Non;3;1;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;31;Celibataire;Exerce profession;Employe de bureau;Non;4;1;Non;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;40;Divorce;Exerce profession;Cadre;Non;3;2;Oui;Non;Non;42,86;Non;0,0;Non;Oui;Comme il faut;1
+F;34;Marie;Exerce profession;Non concerne;Non;6;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Oui;Pas assez;1
+F;20;Celibataire;Etudiant;Non concerne;formation initiale;5;0;Non;Oui;Non;0,0;Non;0,0;Non;Non;Pas assez;0
+F;68;Marie;Retraite;Non concerne;Non;2;1;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;88;Veuf;Autre inactif;Non concerne;Non;2;3;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;59;Marie;Retraite;Ouvrier qualifie;Non;3;4;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;37;Marie;Autre inactif;Non concerne;Non;2;3;Non;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;43;Marie;Exerce profession;Employe de bureau;Non;6;1;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;79;Marie;Retraite;Autre;Non;1;0;Non;Non;Non;480,0;Non;0,0;Non;Non;Comme il faut;0
+F;31;Celibataire;Exerce profession;Technicien;Non;1;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;35;Marie;Exerce profession;Employe de bureau;Non;1;3;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;22;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Non;Non;Non;180,0;Non;0,0;Non;Oui;Pas assez;0
+F;54;Divorce;Exerce profession;Employe de bureau;Non;8;2;Non;Oui;Non;180,0;Non;60,0;Non;Non;Pas assez;1
+H;50;Marie;Exerce profession;Technicien;Non;7;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;38;Divorce;Exerce profession;Employe de bureau;Non;8;2;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;79;Marie;Retraite;Profession intermediaire;Non;7;4;Oui;Non;Non;0,0;Non;0,0;Non;Oui;Pas assez;1
+F;31;Celibataire;Exerce profession;Ouvrier specialise;Non;0;0;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Pas assez;0
+F;49;Marie;Exerce profession;Employe de bureau;Non;2;1;Non;Oui;Non;180,0;Non;4,0;Non;Non;Comme il faut;1
+H;44;Divorce;Exerce profession;Profession intermediaire;Non;0;1;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;27;Celibataire;Exerce profession;Cadre;Non;4;0;Non;Oui;Oui;34,29;Non;0,0;Non;Oui;Comme il faut;0
+H;31;Marie;Exerce profession;Technicien;Non;4;3;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;45;Divorce;Exerce profession;Employe de bureau;Non;2;1;Non;Non;Non;120,0;Non;120,0;Non;Oui;Pas assez;1
+H;51;Marie;Exerce profession;Cadre;Non;2;3;Oui;Oui;Non;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;63;Veuf;Retraite;Cadre;Non;3;5;Non;Non;Non;0,0;Non;180,0;Non;Non;Comme il faut;1
+F;34;Marie;Exerce profession;Technicien;Non;2;2;Non;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;44;Marie;Chomeur;Employe de bureau;Non;2;2;Non;Oui;Non;360,0;Non;0,0;Non;Oui;Comme il faut;1
+F;31;Celibataire;Exerce profession;Cadre;Non;1;0;Oui;Oui;Oui;120,0;Non;0,0;Non;Oui;Pas assez;0
+H;29;Celibataire;Exerce profession;Ouvrier qualifie;Non;2;0;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;52;Marie;Autre inactif;Ouvrier qualifie;Non;12;3;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;71;Marie;Au foyer;Non concerne;Non;3;3;Non;Oui;Non;420,0;Non;0,0;Non;Non;Comme il faut;1
+F;64;Veuf;Autre inactif;Ouvrier specialise;Non;2;2;Oui;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;88;Veuf;Autre inactif;Employe de bureau;Non;1;1;Oui;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;42;Divorce;Exerce profession;Ouvrier qualifie;Non;3;1;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Marie;Exerce profession;Employe de bureau;Non;0;2;Oui;Non;Oui;180,0;Oui;60,0;Non;Non;Comme il faut;1
+F;22;Celibataire;Exerce profession;Employe de bureau;Non;2;1;Non;Oui;Non;300,0;Non;0,0;Non;Non;Pas assez;1
+H;67;Celibataire;Retraite;Employe de bureau;Non;8;0;Oui;Oui;Non;0,0;Non;0,0;Non;Non;Pas assez;0
+F;45;Divorce;Exerce profession;Ouvrier qualifie;Non;2;2;Non;Oui;Non;8,57;Non;0,0;Non;Non;Pas assez;1
+F;40;Celibataire;Chomeur;Non concerne;Non;2;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Exerce profession;Employe de bureau;Non;4;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;62;Marie;Retraite;Ouvrier specialise;Non;0;4;Non;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;59;Marie;Chomeur;Autre;Non;3;2;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;47;Marie;Exerce profession;Autre;Non;5;2;Oui;Oui;Non;180,0;Non;0,0;Non;Oui;Comme il faut;1
+H;36;Marie;Exerce profession;Employe de bureau;Non;3;2;Oui;Oui;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+F;54;Marie;Exerce profession;Employe de bureau;Non;3;3;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+H;59;Divorce;Retraite;Ouvrier qualifie;Non;4;4;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;70;Veuf;Retraite;Employe de bureau;Non;1;4;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;36;Marie;Exerce profession;Ouvrier specialise;Non;6;3;Oui;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;35;Celibataire;Autre inactif;Ouvrier qualifie;Non;5;1;Non;Non;Non;360,0;Non;0,0;Non;Oui;Comme il faut;1
+F;68;Marie;Retraite;Employe de bureau;Non;2;2;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;48;Marie;Exerce profession;Employe de bureau;Non;4;2;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;27;Marie;Autre inactif;Non concerne;Non;6;3;Non;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;19;Celibataire;Autre inactif;Non concerne;Non;1;0;Non;Non;Oui;120,0;Non;0,0;Oui;Non;Comme il faut;0
+F;44;Divorce;Exerce profession;Profession intermediaire;Non;1;3;Oui;Non;Oui;60,0;Non;60,0;Non;Oui;Comme il faut;1
+F;59;Marie;Exerce profession;Autre;Non;1;5;Non;Non;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+F;40;Marie;Exerce profession;Employe de bureau;Non;7;3;Oui;Oui;Non;25,71;Non;180,0;Non;Non;Comme il faut;1
+F;67;Veuf;Retraite;Technicien;Non;0;3;Oui;Non;Non;180,0;Non;85,71;Non;Non;Pas assez;1
+F;23;Marie;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Oui;0,0;Non;60,0;Non;Oui;Comme il faut;0
+H;45;Marie;Exerce profession;Technicien;Non;2;1;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;46;Marie;Chomeur;Ouvrier qualifie;Non;2;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;22;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;0
+F;52;Marie;Exerce profession;Employe de bureau;Non;2;3;Non;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;39;Celibataire;Exerce profession;Employe de bureau;Non;1;3;Non;Oui;Non;240,0;Non;0,0;Non;Oui;Comme il faut;1
+F;60;Veuf;Retraite;Employe de bureau;Non;6;5;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;67;Marie;Retraite;Ouvrier qualifie;Non;4;1;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;25;Celibataire;Exerce profession;Ouvrier qualifie;Non;2;0;Non;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;0
+H;43;Celibataire;Exerce profession;Non concerne;Non;1;0;Non;Non;Oui;42,86;Non;0,0;Oui;Non;Comme il faut;0
+F;30;Marie;Exerce profession;Employe de bureau;Non;2;0;Oui;Oui;Non;240,0;Non;0,0;Non;Oui;Comme il faut;0
+F;62;Marie;Retraite;Cadre;Non;2;4;Oui;Oui;Non;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;56;Marie;Autre inactif;Ouvrier specialise;Non;12;4;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;38;Marie;Exerce profession;Employe de bureau;Non;4;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Trop;1
+H;29;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;0
+F;73;Marie;Autre inactif;Employe de bureau;Non;3;2;Non;Non;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+F;35;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;30;Celibataire;Exerce profession;Profession intermediaire;Non;1;0;Non;Non;Non;60,0;Non;0,0;Oui;Non;Comme il faut;0
+H;37;Marie;Exerce profession;Ouvrier qualifie;Non;4;3;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;74;Marie;Retraite;Cadre;Non;6;3;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;20;Celibataire;Etudiant;Non concerne;formation initiale;3;0;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;51;Marie;Exerce profession;Non concerne;Non;4;3;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;32;Celibataire;Exerce profession;Employe de bureau;Non;2;1;Non;Oui;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;33;Marie;Exerce profession;Employe de bureau;Non;2;1;Oui;Oui;Non;25,71;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Exerce profession;Employe de bureau;Non;2;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+H;29;Marie;Exerce profession;Non concerne;Non;2;2;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;67;Veuf;Au foyer;Non concerne;Non;5;5;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;44;Marie;Exerce profession;Profession intermediaire;Reprise de formation;1;0;Non;Non;Oui;85,71;Non;0,0;Non;Non;Pas assez;0
+H;67;Marie;Retraite;Cadre;Non;0;4;Non;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;61;Marie;Autre inactif;Technicien;Non;1;2;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;38;Marie;Autre inactif;Cadre;Non;2;2;Oui;Oui;Non;68,57;Non;42,86;Non;Oui;Comme il faut;1
+F;70;Marie;Retraite;Cadre;Non;3;2;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;47;Celibataire;Exerce profession;Ouvrier qualifie;Non;3;4;Non;Oui;Non;120,0;Non;0,0;Non;Oui;Pas assez;1
+F;32;Marie;Exerce profession;Profession intermediaire;Non;1;2;Oui;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Marie;Exerce profession;Employe de bureau;Non;4;2;Oui;Non;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;39;Marie;Autre inactif;Non concerne;Non;4;3;Oui;Non;Non;0,0;Non;0,0;Non;Oui;Pas assez;1
+F;26;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Non;Oui;Non;0,0;Non;85,71;Non;Non;Pas assez;0
+H;61;Marie;Retraite;Non concerne;Non;4;2;Oui;Non;Oui;360,0;Non;0,0;Non;Non;Pas assez;1
+F;48;Marie;Chomeur;Autre;Non;1;3;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;30;Celibataire;Exerce profession;Employe de bureau;Non;4;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+F;76;Marie;Retraite;Employe de bureau;Non;6;3;Oui;Non;Oui;300,0;Non;0,0;Non;Non;Pas assez;1
+H;52;Divorce;Exerce profession;Technicien;Non;7;1;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;69;Celibataire;Retraite;Ouvrier qualifie;Non;3;0;Non;Non;Non;120,0;Non;120,0;Non;Non;Comme il faut;0
+H;64;Marie;Retraite;Cadre;Non;1;3;Non;Non;Non;0,0;Non;180,0;Non;Non;Comme il faut;1
+H;51;Marie;Exerce profession;Autre;Non;6;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;45;Marie;Exerce profession;Technicien;Non;1;1;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;46;Marie;Exerce profession;Ouvrier qualifie;Non;2;3;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;82;Marie;Au foyer;Non concerne;Non;3;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;37;Marie;Exerce profession;Employe de bureau;Non;0;2;Oui;Oui;Non;42,86;Non;0,0;Non;Oui;Comme il faut;1
+H;55;Marie;Retraite;Profession intermediaire;Non;1;2;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;30;Celibataire;Exerce profession;Ouvrier qualifie;Non;3;1;Oui;Oui;Non;51,43;Non;0,0;Non;Non;Comme il faut;1
+H;57;Marie;Exerce profession;Cadre;Non;1;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;41;Marie;Exerce profession;Non concerne;Non;5;1;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;40;Marie;Exerce profession;Ouvrier specialise;Non;13;2;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+H;56;Veuf;Exerce profession;Ouvrier qualifie;Non;4;2;Oui;Non;Non;25,71;Non;0,0;Non;Non;Pas assez;1
+H;54;Celibataire;Exerce profession;Cadre;Non;3;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;54;Marie;Autre inactif;Ouvrier qualifie;Non;6;3;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+H;76;Marie;Retraite;Ouvrier qualifie;Non;1;5;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;58;Marie;Autre inactif;Non concerne;Non;5;4;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Pas assez;1
+H;51;Marie;Exerce profession;Cadre;Non;2;1;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;81;Veuf;Retraite;Cadre;Non;1;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;41;Celibataire;Exerce profession;Cadre;Non;3;4;Oui;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;69;Marie;Retraite;Ouvrier qualifie;Non;2;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;55;Marie;Exerce profession;Non concerne;Non;3;2;Non;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;75;Marie;Retraite;Employe de bureau;Non;0;1;Non;Non;Non;180,0;Non;180,0;Non;Non;Pas assez;1
+H;55;Marie;Autre inactif;Ouvrier qualifie;Non;5;2;Oui;Non;Oui;0,0;Non;60,0;Non;Non;Comme il faut;1
+F;70;Veuf;Retraite;Ouvrier qualifie;Non;0;1;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;30;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Non;Non;Oui;128,57;Non;0,0;Non;Non;Comme il faut;0
+F;77;Veuf;Retraite;Employe de bureau;Non;6;2;Non;Non;Non;120,0;Non;60,0;Non;Non;Comme il faut;1
+H;83;Marie;Retraite;Profession intermediaire;Non;4;5;Oui;Non;Oui;360,0;Non;0,0;Non;Oui;Comme il faut;1
+H;73;Marie;Retraite;Cadre;Non;4;1;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;74;Celibataire;Retraite;Profession intermediaire;Non;0;1;Non;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;75;Veuf;Au foyer;Non concerne;Non;14;4;Non;Non;Non;360,0;Non;0,0;Non;Non;Pas assez;1
+F;55;Divorce;Autre inactif;Employe de bureau;Non;2;4;Non;Non;Non;420,0;Non;0,0;Non;Non;Comme il faut;1
+H;74;Marie;Retraite;Non concerne;Non;1;2;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;37;Celibataire;Exerce profession;Non concerne;Non;1;1;Oui;Non;Oui;17,14;Non;0,0;Non;Non;Comme il faut;1
+F;55;Veuf;Retraite;Employe de bureau;Non;2;3;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;82;Marie;Retraite;Employe de bureau;Non;1;3;Oui;Oui;Non;180,0;Non;60,0;Non;Non;Comme il faut;1
+F;20;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Oui;Oui;60,0;Non;0,0;Non;Oui;Pas assez;0
+F;40;Divorce;Exerce profession;Employe de bureau;Non;5;0;Non;Oui;Oui;25,71;Non;180,0;Non;Oui;Comme il faut;0
+F;31;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;23;Celibataire;Exerce profession;Ouvrier specialise;Non;3;0;Non;Non;Oui;0,0;Non;0,0;Non;Non;Pas assez;0
+F;46;Marie;Autre inactif;Non concerne;Non;8;6;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;22;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Non;Oui;120,0;Non;0,0;Non;Non;Trop;0
+F;77;Marie;Retraite;Employe de bureau;Non;3;5;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;65;Divorce;Exerce profession;Non concerne;Non;4;2;Oui;Non;Non;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;30;Celibataire;Autre inactif;Non concerne;Non;4;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;71;Marie;Retraite;Employe de bureau;Non;0;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;63;Divorce;Exerce profession;Employe de bureau;Non;1;3;Non;Non;Oui;120,0;Non;60,0;Non;Oui;Pas assez;1
+H;36;Marie;Exerce profession;Employe de bureau;Non;4;2;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Pas assez;1
+F;35;Veuf;Exerce profession;Employe de bureau;Non;0;2;Non;Oui;Oui;0,0;Non;0,0;Non;Oui;Comme il faut;1
+H;48;Divorce;Exerce profession;Profession intermediaire;Non;4;1;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;70;Marie;Retraite;Employe de bureau;Non;4;3;Non;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;18;Celibataire;Etudiant;Non concerne;formation initiale;3;0;Non;Non;Non;120,0;Non;0,0;Oui;Non;Comme il faut;0
+F;37;Marie;Exerce profession;Employe de bureau;Non;2;3;Oui;Oui;Non;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;37;Marie;Autre inactif;Employe de bureau;Non;4;2;Oui;Oui;Non;120,0;Non;0,0;Non;Oui;Pas assez;1
+H;66;Marie;Retraite;Ouvrier qualifie;Non;0;3;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;29;Celibataire;Exerce profession;Profession intermediaire;Non;1;0;Non;Oui;Non;8,0;Oui;42,86;Non;Oui;Pas assez;0
+H;23;Celibataire;Etudiant;Ouvrier qualifie;Non;2;0;Oui;Non;Oui;8,57;Non;0,0;Non;Non;Pas assez;0
+F;25;Celibataire;Chomeur;Cadre;Non;3;0;Non;Oui;Oui;300,0;Non;0,0;Non;Oui;Comme il faut;0
+H;41;Marie;Exerce profession;Non concerne;Non;5;3;Non;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;65;Marie;Retraite;Cadre;Non;4;2;Oui;Oui;Non;17,14;Non;0,0;Non;Non;Comme il faut;1
+H;32;Marie;Exerce profession;Ouvrier qualifie;Non;6;4;Oui;Oui;Non;40,0;Non;0,0;Non;Non;Comme il faut;1
+F;26;Celibataire;Exerce profession;Cadre;Reprise de formation;2;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;49;Marie;Exerce profession;Cadre;Non;2;4;Non;Non;Non;42,86;Non;0,0;Non;Non;Comme il faut;1
+H;47;Divorce;Exerce profession;Cadre;Non;5;4;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;50;Marie;Exerce profession;Cadre;Non;1;2;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+H;57;Divorce;Chomeur;Ouvrier qualifie;Non;4;4;Non;Oui;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;58;Marie;Autre inactif;Employe de bureau;Non;3;2;Non;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;48;Marie;Chomeur;Employe de bureau;Non;2;0;Non;Non;Non;720,0;Non;0,0;Non;Non;Pas assez;0
+H;44;Marie;Exerce profession;Ouvrier qualifie;Non;4;3;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;59;Marie;Exerce profession;Cadre;Non;2;1;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;38;Divorce;Exerce profession;Employe de bureau;Non;2;2;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;62;Marie;Autre inactif;Employe de bureau;Non;6;4;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;65;Veuf;Retraite;Ouvrier qualifie;Non;3;3;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;18;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Oui;Non;Oui;85,71;Non;0,0;Non;Non;Comme il faut;0
+F;77;Divorce;Retraite;Cadre;Non;4;4;Oui;Oui;Oui;85,71;Non;180,0;Non;Oui;Pas assez;1
+F;59;Marie;Autre inactif;Non concerne;Non;5;10;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;65;Divorce;Retraite;Employe de bureau;Non;9;1;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;46;Marie;Autre inactif;Autre;Non;0;1;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+F;49;Marie;Exerce profession;Employe de bureau;Non;3;5;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;51;Marie;Exerce profession;Technicien;Non;2;2;Non;Non;Oui;120,0;Non;60,0;Non;Oui;Comme il faut;1
+H;25;Marie;Exerce profession;Cadre;Non;5;0;Non;Non;Oui;25,71;Non;0,0;Non;Oui;Pas assez;0
+H;35;Marie;Exerce profession;Cadre;Non;1;2;Oui;Non;Oui;180,0;Non;0,0;Oui;Non;Comme il faut;1
+H;39;Marie;Exerce profession;Ouvrier qualifie;Non;4;2;Non;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;25;Marie;Autre inactif;Employe de bureau;Non;2;1;Non;Oui;Non;300,0;Non;0,0;Non;Oui;Comme il faut;1
+H;21;Celibataire;Exerce profession;Ouvrier qualifie;Non;1;0;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;65;Celibataire;Retraite;Cadre;Non;2;6;Oui;Non;Oui;257,14;Non;0,0;Non;Non;Pas assez;1
+F;27;Marie;Exerce profession;Employe de bureau;Non;1;0;Non;Non;Oui;17,14;Non;0,0;Non;Non;Pas assez;0
+F;45;Marie;Exerce profession;Employe de bureau;Non;2;2;Oui;Oui;Oui;0,0;Non;0,0;Non;Oui;Pas assez;1
+H;30;Celibataire;Exerce profession;Ouvrier qualifie;Non;2;0;Non;Oui;Oui;360,0;Non;0,0;Non;Non;Comme il faut;0
+H;60;Marie;Retraite;Cadre;Non;3;2;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;66;Marie;Retraite;Employe de bureau;Non;7;4;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;88;Veuf;Au foyer;Non concerne;Non;2;2;Non;Non;Non;180,0;Non;180,0;Non;Non;Comme il faut;1
+H;59;Veuf;Retraite;Ouvrier qualifie;Non;3;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;43;Marie;Exerce profession;Ouvrier qualifie;Non;12;3;Non;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Exerce profession;Employe de bureau;Non;4;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;46;Marie;Autre inactif;Non concerne;Non;9;4;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;25;Celibataire;Exerce profession;Cadre;Non;0;0;Non;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;0
+F;44;Marie;Exerce profession;Profession intermediaire;Non;2;3;Non;Oui;Oui;25,71;Non;0,0;Non;Non;Pas assez;1
+H;51;Marie;Exerce profession;Employe de bureau;Non;1;3;Oui;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;58;Marie;Retraite;Profession intermediaire;Non;4;3;Non;Non;Non;240,0;Non;120,0;Non;Non;Comme il faut;1
+F;36;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;0
+F;68;Celibataire;Retraite;Employe de bureau;Non;0;0;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;0
+H;69;Marie;Retraite;Autre;Non;7;4;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;20;Celibataire;Etudiant;Non concerne;formation initiale;4;0;Oui;Oui;Oui;42,86;Non;0,0;Non;Non;Comme il faut;0
+F;42;Divorce;Chomeur;Ouvrier specialise;Non;2;4;Non;Oui;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+H;69;Marie;Retraite;Ouvrier qualifie;Non;1;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;67;Veuf;Retraite;Employe de bureau;Non;2;2;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;47;Celibataire;Autre inactif;Cadre;Non;1;5;Non;Non;Non;120,0;Non;0,0;Non;Non;Trop;1
+F;67;Marie;Retraite;Employe de bureau;Non;1;3;Non;Non;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+F;35;Divorce;Exerce profession;Employe de bureau;Non;1;1;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;71;Veuf;Retraite;Employe de bureau;Non;2;2;Non;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+F;34;Marie;Exerce profession;Cadre;Non;2;2;Non;Oui;Non;60,0;Non;0,0;Non;Oui;Comme il faut;1
+H;67;Marie;Retraite;Ouvrier qualifie;Non;0;1;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;37;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Non;Oui;Oui;34,29;Non;0,0;Non;Non;Comme il faut;0
+H;29;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;48;Marie;Exerce profession;Profession intermediaire;Non;2;1;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;65;Marie;Retraite;Ouvrier specialise;Non;3;3;Oui;Oui;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+F;36;Celibataire;Chomeur;Employe de bureau;Non;2;2;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;76;Marie;Retraite;Ouvrier specialise;Non;7;4;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;52;Marie;Exerce profession;Technicien;Non;7;2;Non;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;58;Divorce;Exerce profession;Profession intermediaire;Non;5;1;Non;Non;Non;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;43;Divorce;Exerce profession;Employe de bureau;Non;1;2;Non;Oui;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;43;Marie;Exerce profession;Employe de bureau;Non;3;4;Oui;Oui;Oui;42,86;Non;34,29;Non;Oui;Comme il faut;1
+F;70;Marie;Autre inactif;Employe de bureau;Non;5;5;Non;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;21;Celibataire;Exerce profession;Technicien;Non;2;0;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;68;Veuf;Retraite;Ouvrier specialise;Non;2;5;Non;Non;Non;360,0;Non;60,0;Non;Non;Comme il faut;1
+H;55;Marie;Exerce profession;Technicien;Non;1;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;61;Divorce;Autre inactif;Non concerne;Non;5;8;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;28;Marie;Autre inactif;Employe de bureau;Non;4;3;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;39;Celibataire;Exerce profession;Ouvrier specialise;Non;2;0;Non;Oui;Non;56,0;Non;0,0;Oui;Oui;Comme il faut;0
+H;74;Marie;Retraite;Technicien;Non;3;0;Non;Non;Non;540,0;Non;0,0;Non;Non;Comme il faut;0
+F;88;Celibataire;Retraite;Ouvrier qualifie;Non;1;0;Non;Oui;Non;360,0;Non;0,0;Non;Non;Comme il faut;0
+H;41;Celibataire;Exerce profession;Ouvrier specialise;Non;4;3;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;30;Celibataire;Exerce profession;Employe de bureau;Non;2;1;Non;Non;Oui;300,0;Non;0,0;Non;Non;Pas assez;1
+H;35;Marie;Exerce profession;Autre;Non;4;2;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;57;Divorce;Exerce profession;Non concerne;Non;1;2;Oui;Oui;Non;180,0;Non;0,0;Non;Oui;Comme il faut;1
+H;48;Marie;Exerce profession;Technicien;Non;3;2;Non;Non;Non;17,14;Non;0,0;Non;Non;Comme il faut;1
+H;46;Marie;Exerce profession;Ouvrier qualifie;Non;2;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;31;Celibataire;Exerce profession;Employe de bureau;Non;5;1;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;74;Marie;Retraite;Ouvrier specialise;Non;12;3;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;55;Marie;Exerce profession;Cadre;Non;8;4;Oui;Non;Oui;60,0;Non;0,0;Non;Non;Pas assez;1
+H;56;Marie;Exerce profession;Ouvrier qualifie;Non;3;3;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;30;Celibataire;Exerce profession;Profession intermediaire;Non;1;0;Non;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;0
+H;48;Celibataire;Exerce profession;Cadre;Non;6;4;Oui;Non;Non;180,0;Non;60,0;Non;Non;Comme il faut;1
+H;53;Divorce;Exerce profession;Ouvrier qualifie;Non;2;3;Non;Non;Non;180,0;Non;60,0;Non;Non;Comme il faut;1
+F;47;Divorce;Exerce profession;Employe de bureau;Non;5;2;Non;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+F;48;Marie;Exerce profession;Employe de bureau;Non;8;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;36;Marie;Exerce profession;Cadre;Non;1;1;Non;Oui;Oui;120,0;Non;51,43;Non;Non;Comme il faut;1
+F;64;Marie;Exerce profession;Non concerne;Non;2;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;68;Celibataire;Retraite;Employe de bureau;Non;1;0;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;0
+F;21;Celibataire;Etudiant;Non concerne;Non;2;0;Non;Oui;Oui;25,71;Non;0,0;Non;Oui;Pas assez;0
+F;27;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Oui;Oui;25,71;Non;0,0;Non;Oui;Comme il faut;0
+F;22;Celibataire;Etudiant;Employe de bureau;Reprise de formation;1;0;Non;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;0
+H;54;Divorce;Chomeur;Ouvrier specialise;Non;1;0;Oui;Non;Oui;120,0;Non;120,0;Non;Non;Comme il faut;0
+F;25;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Oui;Oui;25,71;Non;0,0;Non;Non;Comme il faut;0
+H;28;Marie;Exerce profession;Employe de bureau;Non;3;1;Non;Non;Oui;180,0;Non;0,0;Oui;Non;Pas assez;1
+H;39;Marie;Autre inactif;Ouvrier qualifie;Non;0;5;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;39;Marie;Exerce profession;Ouvrier specialise;Non;8;4;Non;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;31;Celibataire;Exerce profession;Non concerne;Non;3;0;Non;Oui;Oui;25,71;Non;0,0;Non;Non;Comme il faut;0
+H;37;Celibataire;Exerce profession;Cadre;Non;2;0;Oui;Oui;Oui;34,29;Non;0,0;Non;Oui;Comme il faut;0
+F;85;Veuf;Au foyer;Non concerne;Non;4;6;Oui;Non;Non;120,0;Non;60,0;Non;Non;Comme il faut;1
+F;29;Celibataire;Autre inactif;Ouvrier qualifie;Non;0;2;Oui;Oui;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;34;Celibataire;Autre inactif;Employe de bureau;Non;4;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;78;Marie;Retraite;Ouvrier qualifie;Non;4;1;Non;Non;Non;180,0;Non;60,0;Non;Non;Comme il faut;1
+H;51;Marie;Exerce profession;Ouvrier qualifie;Non;3;2;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+F;41;Marie;Exerce profession;Cadre;Non;1;2;Non;Non;Oui;85,71;Non;0,0;Non;Non;Comme il faut;1
+F;45;Marie;Exerce profession;Non concerne;Non;14;2;Non;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;61;Marie;Retraite;Employe de bureau;Non;2;3;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;50;Veuf;Exerce profession;Employe de bureau;Non;11;3;Oui;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;77;Marie;Retraite;Ouvrier qualifie;Non;0;4;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;38;Celibataire;Autre inactif;Non concerne;Non;10;0;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;0
+F;67;Divorce;Retraite;Employe de bureau;Non;3;0;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;0
+F;76;Marie;Au foyer;Non concerne;Non;0;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;33;Marie;Exerce profession;Autre;Non;1;3;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;32;Celibataire;Autre inactif;Cadre;Non;13;1;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Pas assez;1
+F;37;Marie;Exerce profession;Employe de bureau;Non;5;1;Non;Non;Non;60,0;Non;17,14;Non;Non;Comme il faut;1
+F;44;Marie;Autre inactif;Non concerne;Non;3;1;Oui;Oui;Non;180,0;Non;0,0;Non;Oui;Comme il faut;1
+F;56;Divorce;Exerce profession;Non concerne;Non;2;1;Oui;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;30;Marie;Autre inactif;Employe de bureau;Non;2;2;Oui;Oui;Non;180,0;Non;0,0;Non;Oui;Pas assez;1
+H;42;Marie;Exerce profession;Profession intermediaire;Non;3;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;34;Marie;Autre inactif;Non concerne;Non;7;5;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;58;Marie;Autre inactif;Ouvrier qualifie;Non;2;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;87;Veuf;Retraite;Ouvrier qualifie;Non;1;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;36;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Oui;Oui;Oui;85,71;Non;0,0;Non;Non;Comme il faut;0
+F;33;Marie;Autre inactif;Employe de bureau;Non;3;3;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;57;Celibataire;Exerce profession;Ouvrier qualifie;Non;2;0;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;0
+F;55;Marie;Retraite;Profession intermediaire;Non;1;3;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;29;Marie;Exerce profession;Employe de bureau;Non;1;1;Oui;Non;Oui;180,0;Non;0,0;Oui;Oui;Comme il faut;1
+H;21;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Non;Oui;42,86;Non;0,0;Non;Non;Comme il faut;0
+F;38;Celibataire;Exerce profession;Ouvrier qualifie;Non;2;1;Non;Non;Oui;180,0;Non;0,0;Non;Non;Trop;1
+H;69;Marie;Retraite;Cadre;Non;1;2;Non;Non;Non;120,0;Non;180,0;Non;Non;Comme il faut;1
+H;27;Celibataire;Exerce profession;Technicien;Non;2;1;Oui;Oui;Non;120,0;Non;0,0;Oui;Non;Comme il faut;1
+H;52;Marie;Exerce profession;Ouvrier qualifie;Non;2;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;59;Marie;Exerce profession;Non concerne;Non;1;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;69;Veuf;Retraite;Employe de bureau;Non;4;5;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;57;Marie;Autre inactif;Ouvrier qualifie;Non;3;0;Non;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;0
+F;39;Marie;Exerce profession;Profession intermediaire;Non;2;3;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;78;Veuf;Autre inactif;Ouvrier qualifie;Non;1;2;Oui;Oui;Non;480,0;Non;0,0;Non;Non;Pas assez;1
+F;42;Divorce;Exerce profession;Employe de bureau;Non;1;3;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;63;Marie;Autre inactif;Employe de bureau;Non;7;7;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;47;Marie;Exerce profession;Non concerne;Non;4;4;Non;Oui;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+H;21;Celibataire;Etudiant;Non concerne;Non;1;0;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;0
+F;38;Celibataire;Etudiant;Ouvrier specialise;Non;3;4;Non;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;59;Divorce;Exerce profession;Employe de bureau;Non;7;4;Oui;Oui;Non;34,29;Non;0,0;Non;Non;Pas assez;1
+F;47;Marie;Exerce profession;Employe de bureau;Non;6;4;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;50;Marie;Exerce profession;Employe de bureau;Non;8;4;Oui;Oui;Oui;42,86;Non;0,0;Non;Non;Comme il faut;1
+F;36;Marie;Exerce profession;Employe de bureau;Non;3;1;Oui;Oui;Oui;25,71;Non;0,0;Non;Oui;Comme il faut;1
+F;49;Marie;Exerce profession;Cadre;Non;4;2;Non;Non;Non;60,0;Non;120,0;Non;Oui;Comme il faut;1
+H;39;Marie;Exerce profession;Non concerne;Non;4;2;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;41;Marie;Exerce profession;Employe de bureau;Non;6;2;Non;Non;Oui;0,0;Non;0,0;Non;Non;Pas assez;1
+F;31;Marie;Autre inactif;Non concerne;Non;5;1;Non;Non;Non;240,0;Non;60,0;Non;Non;Comme il faut;1
+H;69;Divorce;Retraite;Cadre;Non;2;1;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;21;Celibataire;Exerce profession;Employe de bureau;Non;2;1;Non;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;69;Divorce;Retraite;Employe de bureau;Non;6;3;Non;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;59;Marie;Autre inactif;Employe de bureau;Non;1;2;Non;Non;Non;420,0;Non;0,0;Non;Non;Pas assez;1
+H;69;Divorce;Retraite;Cadre;Non;1;0;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;48;Veuf;Exerce profession;Ouvrier specialise;Non;5;1;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;22;Celibataire;Exerce profession;Technicien;Non;2;0;Non;Oui;Oui;120,0;Non;0,0;Non;Oui;Pas assez;0
+F;66;Marie;Retraite;Employe de bureau;Non;3;4;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;44;Divorce;Autre inactif;Employe de bureau;Non;13;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;18;Celibataire;Chomeur;Non concerne;Non;7;0;Non;Oui;Non;240,0;Non;0,0;Non;Oui;Comme il faut;0
+F;58;Marie;Autre inactif;Ouvrier specialise;Non;3;6;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;52;Marie;Exerce profession;Ouvrier qualifie;Non;8;3;Oui;Non;Non;240,0;Non;60,0;Non;Oui;Trop;1
+F;65;Marie;Retraite;Employe de bureau;Non;0;3;Oui;Oui;Non;360,0;Non;0,0;Non;Non;Pas assez;1
+F;54;Veuf;Exerce profession;Employe de bureau;Non;2;4;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;67;Marie;Autre inactif;Non concerne;Non;4;2;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;47;Veuf;Exerce profession;Ouvrier specialise;Non;11;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;61;Marie;Exerce profession;Non concerne;Non;3;2;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+F;19;Marie;Autre inactif;Non concerne;Non;2;1;Non;Oui;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+H;39;Celibataire;Autre inactif;Ouvrier specialise;Non;1;0;Non;Non;Non;360,0;Non;0,0;Oui;Non;Comme il faut;0
+F;24;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;0
+F;48;Marie;Exerce profession;Autre;Non;10;3;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;35;Celibataire;Exerce profession;Cadre;Non;3;0;Non;Oui;Non;102,86;Non;0,0;Oui;Oui;Pas assez;0
+F;26;Celibataire;Exerce profession;Cadre;Non;3;0;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;0
+F;48;Marie;Autre inactif;Employe de bureau;Non;0;1;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;46;Marie;Exerce profession;Ouvrier qualifie;Non;6;2;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;26;Celibataire;Etudiant;Non concerne;Reprise de formation;2;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;28;Celibataire;Exerce profession;Autre;Non;4;0;Non;Non;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;0
+F;54;Celibataire;Chomeur;Ouvrier specialise;Non;3;0;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;81;Veuf;Retraite;Employe de bureau;Non;1;5;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;40;Celibataire;Exerce profession;Cadre;Non;3;3;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;55;Marie;Exerce profession;Employe de bureau;Non;4;5;Oui;Non;Non;0,0;Non;34,29;Non;Non;Comme il faut;1
+F;75;Marie;Autre inactif;Non concerne;Reprise de formation;2;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;31;Marie;Exerce profession;Employe de bureau;Reprise de formation;2;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Oui;Pas assez;1
+H;55;Divorce;Autre inactif;Ouvrier qualifie;Non;3;3;Oui;Oui;Oui;240,0;Non;0,0;Non;Non;Pas assez;1
+F;43;Marie;Exerce profession;Non concerne;Non;3;0;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;29;Celibataire;Exerce profession;Non concerne;Non;1;0;Non;Non;Non;25,71;Non;0,0;Non;Non;Comme il faut;0
+F;30;Marie;Chomeur;Employe de bureau;Non;3;3;Oui;Non;Non;0,0;Non;0,0;Non;Oui;Pas assez;1
+H;37;Celibataire;Exerce profession;Ouvrier qualifie;Non;0;3;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;92;Veuf;Retraite;Employe de bureau;Non;3;1;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;46;Marie;Exerce profession;Employe de bureau;Non;5;3;Oui;Oui;Oui;34,29;Non;60,0;Non;Non;Comme il faut;1
+F;45;Divorce;Exerce profession;Employe de bureau;Non;7;3;Oui;Oui;Non;240,0;Non;0,0;Oui;Oui;Pas assez;1
+H;37;Celibataire;Exerce profession;Profession intermediaire;Non;11;0;Non;Oui;Oui;68,57;Non;0,0;Non;Non;Comme il faut;0
+F;50;Marie;Exerce profession;Non concerne;Non;1;3;Non;Oui;Non;120,0;Non;0,0;Non;Oui;Pas assez;1
+F;40;Divorce;Exerce profession;Employe de bureau;Non;5;2;Non;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;39;Marie;Autre inactif;Ouvrier specialise;Non;1;3;Oui;Oui;Non;540,0;Non;0,0;Non;Non;Comme il faut;1
+F;73;Marie;Retraite;Ouvrier specialise;Non;3;0;Non;Oui;Non;360,0;Non;0,0;Non;Non;Pas assez;0
+F;32;Marie;Autre inactif;Ouvrier specialise;Non;5;3;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;78;Veuf;Retraite;Non concerne;Non;1;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Refus;1
+F;29;Marie;Exerce profession;Non concerne;Non;4;2;Non;Oui;Oui;0,0;Non;25,71;Non;Non;Pas assez;1
+H;21;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Non;Oui;171,43;Non;0,0;Non;Non;Comme il faut;0
+H;82;Veuf;Au foyer;Non concerne;Non;3;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;48;Marie;Exerce profession;Profession intermediaire;Non;1;3;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;28;Marie;Autre inactif;Employe de bureau;Non;5;2;Oui;Oui;Oui;300,0;Non;0,0;Non;Oui;Comme il faut;1
+H;20;Celibataire;Etudiant;Non concerne;formation initiale;3;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;0
+F;21;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;0
+F;41;Marie;Exerce profession;Ouvrier specialise;Non;9;3;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;25;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;0
+F;33;Marie;Exerce profession;Profession intermediaire;Non;2;3;Non;Oui;Non;120,0;Non;0,0;Oui;Oui;Comme il faut;1
+F;59;Marie;Exerce profession;Employe de bureau;Non;6;4;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;65;Divorce;Retraite;Profession intermediaire;Non;0;1;Non;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;56;Marie;Exerce profession;Employe de bureau;Non;1;1;Non;Non;Non;34,29;Non;0,0;Non;Non;Comme il faut;1
+H;58;Marie;Retraite;Cadre;Non;4;5;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;36;Marie;Exerce profession;Employe de bureau;Non;1;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+F;24;Celibataire;Autre inactif;Employe de bureau;Non;4;1;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;56;Marie;Exerce profession;Cadre;Non;2;3;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;65;Marie;Retraite;Employe de bureau;Non;4;3;Oui;Non;Non;85,71;Non;120,0;Non;Non;Comme il faut;1
+F;39;Celibataire;Exerce profession;Employe de bureau;Non;6;3;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Exerce profession;Employe de bureau;Non;5;4;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;36;Marie;Exerce profession;Employe de bureau;Non;0;2;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;44;Veuf;Exerce profession;Employe de bureau;Non;6;2;Non;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;31;Celibataire;Exerce profession;Ouvrier qualifie;Non;9;3;Non;Oui;Oui;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;53;Marie;Retraite;Employe de bureau;Non;6;4;Oui;Oui;Non;0,0;Non;60,0;Non;Oui;Comme il faut;1
+H;79;Marie;Retraite;Non concerne;Non;1;7;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;51;Marie;Autre inactif;Ouvrier qualifie;Non;3;1;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+H;52;Marie;Exerce profession;Non concerne;Non;8;2;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;70;Veuf;Au foyer;Non concerne;Non;9;1;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;86;Veuf;Retraite;Employe de bureau;Non;8;5;Non;Non;Non;300,0;Non;180,0;Non;Non;Comme il faut;1
+F;36;Celibataire;Exerce profession;Employe de bureau;Non;2;2;Non;Oui;Non;360,0;Non;0,0;Oui;Non;Comme il faut;1
+H;54;Marie;Exerce profession;Ouvrier qualifie;Non;5;1;Oui;Non;Non;8,57;Non;0,0;Non;Non;Comme il faut;1
+F;55;Marie;Autre inactif;Employe de bureau;Non;4;3;Oui;Non;Non;120,0;Non;120,0;Non;Non;Comme il faut;1
+F;42;Divorce;Exerce profession;Autre;Non;4;3;Non;Non;Non;60,0;Non;60,0;Non;Oui;Comme il faut;1
+H;30;Celibataire;Exerce profession;Employe de bureau;Non;3;0;Non;Non;Oui;42,86;Non;0,0;Non;Non;Pas assez;0
+F;35;Celibataire;Exerce profession;Profession intermediaire;Non;1;0;Oui;Oui;Non;42,86;Non;0,0;Non;Non;Comme il faut;0
+H;47;Marie;Exerce profession;Cadre;Non;1;2;Non;Oui;Oui;51,43;Non;0,0;Non;Non;Comme il faut;1
+H;18;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;0
+H;58;Veuf;Retraite;Profession intermediaire;Non;2;2;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;37;Celibataire;Exerce profession;Non concerne;Non;1;0;Non;Oui;Oui;85,71;Non;0,0;Non;Oui;Comme il faut;0
+F;36;Divorce;Exerce profession;Non concerne;Non;2;3;Non;Oui;Non;8,57;Non;0,0;Non;Non;Comme il faut;1
+H;48;Marie;Exerce profession;Ouvrier qualifie;Non;4;3;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;18;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;0
+F;60;Marie;Exerce profession;Non concerne;Non;1;2;Non;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;79;Veuf;Retraite;Ouvrier specialise;Non;9;6;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;58;Divorce;Exerce profession;Employe de bureau;Non;4;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;33;Marie;Exerce profession;Autre;Non;1;1;Non;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;56;Divorce;Chomeur;Ouvrier qualifie;Non;1;5;Non;Oui;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+H;64;Marie;Retraite;Employe de bureau;Non;6;2;Oui;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+H;77;Marie;Retraite;Profession intermediaire;Non;0;4;Oui;Non;Non;180,0;Non;120,0;Non;Non;Comme il faut;1
+F;40;Marie;Exerce profession;Employe de bureau;Non;9;4;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;65;Marie;Retraite;Cadre;Non;1;1;Oui;Non;Oui;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;70;Marie;Retraite;Autre;Non;0;10;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;25;Celibataire;Chomeur;Ouvrier specialise;Non;3;0;Non;Non;Non;360,0;Non;0,0;Non;Non;Pas assez;0
+H;24;Marie;Exerce profession;Technicien;Non;0;0;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;52;Marie;Exerce profession;Employe de bureau;Non;4;1;Non;Non;Oui;17,14;Non;0,0;Non;Non;Pas assez;1
+H;61;Marie;Retraite;Cadre;Non;1;2;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;29;Celibataire;Exerce profession;Employe de bureau;Non;3;1;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;35;Marie;Exerce profession;Cadre;Non;2;2;Oui;Oui;Oui;180,0;Non;0,0;Oui;Non;Comme il faut;1
+F;79;Veuf;Au foyer;Non concerne;Non;1;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;38;Celibataire;Exerce profession;Profession intermediaire;Non;4;1;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;48;Marie;Exerce profession;Non concerne;Non;1;3;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;34;Marie;Exerce profession;Profession intermediaire;Non;3;2;Non;Oui;Oui;17,14;Non;60,0;Non;Non;Comme il faut;1
+F;52;Marie;Chomeur;Ouvrier specialise;Non;12;4;Non;Oui;Non;300,0;Non;0,0;Non;Non;Trop;1
+H;42;Celibataire;Autre inactif;Ouvrier specialise;Non;5;0;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;50;Marie;Exerce profession;Non concerne;Non;11;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;53;Marie;Autre inactif;Ouvrier specialise;Non;11;3;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+H;18;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;0
+F;26;Celibataire;Autre inactif;Employe de bureau;Non;3;1;Non;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;57;Divorce;Autre inactif;Employe de bureau;Non;1;6;Non;Oui;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+H;72;Veuf;Retraite;Profession intermediaire;Non;4;1;Oui;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;42;Marie;Exerce profession;Ouvrier qualifie;Non;2;3;Non;Non;Non;25,71;Non;0,0;Non;Non;Comme il faut;1
+F;32;Divorce;Etudiant;Autre;Reprise de formation;2;1;Non;Non;Non;34,29;Non;0,0;Oui;Non;Pas assez;1
+H;33;Marie;Exerce profession;Cadre;Non;2;2;Oui;Oui;Oui;60,0;Non;0,0;Oui;Non;Comme il faut;1
+H;73;Veuf;Retraite;Employe de bureau;Non;2;1;Oui;Non;Non;180,0;Non;180,0;Non;Non;Pas assez;1
+F;37;Marie;Autre inactif;Employe de bureau;Non;9;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;34;Marie;Exerce profession;Employe de bureau;Non;3;1;Oui;Non;Oui;0,0;Non;0,0;Non;Oui;Comme il faut;1
+H;51;Marie;Exerce profession;Profession intermediaire;Non;1;2;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Pas assez;1
+F;51;Divorce;Exerce profession;Employe de bureau;Non;3;2;Non;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;41;Marie;Exerce profession;Ouvrier qualifie;Non;3;3;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;49;Divorce;Exerce profession;Profession intermediaire;Non;0;2;Non;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;64;Marie;Retraite;Ouvrier specialise;Non;8;3;Oui;Oui;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+H;29;Celibataire;Exerce profession;Ouvrier specialise;Non;5;0;Non;Non;Non;51,43;Non;0,0;Non;Non;Comme il faut;0
+F;71;Marie;Retraite;Employe de bureau;Non;10;3;Non;Oui;Non;120,0;Non;120,0;Non;Non;Pas assez;1
+F;51;Divorce;Exerce profession;Ouvrier qualifie;Non;2;4;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;44;Divorce;Exerce profession;Cadre;Non;2;1;Oui;Oui;Oui;42,86;Non;0,0;Non;Non;Pas assez;1
+F;56;Marie;Exerce profession;Employe de bureau;Non;2;1;Oui;Non;Oui;60,0;Non;0,0;Non;Non;Pas assez;1
+H;30;Celibataire;Exerce profession;Employe de bureau;Non;3;0;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Trop;0
+H;59;Marie;Chomeur;Cadre;Non;9;2;Non;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;42;Marie;Autre inactif;Non concerne;Non;3;5;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;32;Marie;Exerce profession;Employe de bureau;Non;5;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;54;Marie;Autre inactif;Ouvrier qualifie;Non;7;1;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;30;Marie;Exerce profession;Cadre;Non;2;0;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Pas assez;0
+F;60;Marie;Autre inactif;Non concerne;Non;4;2;Non;Non;Non;68,57;Non;0,0;Non;Non;Comme il faut;1
+F;56;Marie;Exerce profession;Autre;Non;7;3;Oui;Oui;Non;240,0;Non;40,0;Non;Non;Trop;1
+F;62;Veuf;Exerce profession;Employe de bureau;Non;1;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;50;Divorce;Exerce profession;Cadre;Non;1;2;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;19;Celibataire;Exerce profession;Ouvrier specialise;formation initiale;4;0;Non;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;0
+F;67;Marie;Retraite;Cadre;Non;0;0;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;0
+H;42;Marie;Exerce profession;Ouvrier qualifie;Non;6;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;43;Marie;Exerce profession;Ouvrier qualifie;Non;3;1;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;71;Marie;Au foyer;Non concerne;Non;1;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;21;Celibataire;Exerce profession;Employe de bureau;Non;0;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;0
+H;75;Veuf;Au foyer;Non concerne;Non;3;1;Oui;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+H;21;Celibataire;Exerce profession;Ouvrier specialise;Non;4;0;Non;Non;Non;420,0;Non;0,0;Non;Non;Comme il faut;0
+F;38;Marie;Exerce profession;Autre;Non;1;3;Oui;Oui;Oui;0,0;Non;120,0;Non;Non;Comme il faut;1
+F;71;Celibataire;Retraite;Profession intermediaire;Non;4;0;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;37;Marie;Exerce profession;Employe de bureau;Non;0;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;51;Marie;Exerce profession;Ouvrier qualifie;Non;7;3;Non;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;47;Marie;Exerce profession;Profession intermediaire;Non;2;3;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;20;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Oui;Oui;120,0;Non;0,0;Oui;Oui;Comme il faut;0
+F;58;Marie;Exerce profession;Employe de bureau;Non;7;6;Oui;Oui;Non;120,0;Non;25,71;Non;Non;Comme il faut;1
+H;81;Marie;Au foyer;Non concerne;Non;6;3;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;50;Veuf;Exerce profession;Employe de bureau;Non;4;4;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;74;Marie;Retraite;Ouvrier specialise;Non;9;3;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;22;Celibataire;Exerce profession;Profession intermediaire;Non;2;0;Non;Oui;Oui;180,0;Non;0,0;Non;Oui;Pas assez;0
+F;35;Marie;Exerce profession;Profession intermediaire;Non;3;3;Non;Oui;Non;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;61;Marie;Retraite;Technicien;Non;2;2;Oui;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;55;Marie;Exerce profession;Cadre;Non;1;1;Non;Non;Oui;68,57;Non;0,0;Non;Non;Comme il faut;1
+F;74;Divorce;Retraite;Employe de bureau;Non;6;7;Non;Non;Non;240,0;Non;120,0;Non;Non;Pas assez;1
+F;55;Marie;Exerce profession;Non concerne;Non;3;3;Oui;Oui;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+F;44;Marie;Exerce profession;Employe de bureau;Non;3;1;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;19;Marie;Autre inactif;Non concerne;Non;1;1;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;60;Marie;Exerce profession;Employe de bureau;Non;6;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+F;29;Celibataire;Exerce profession;Employe de bureau;Non;3;1;Non;Non;Oui;180,0;Non;0,0;Non;Oui;Trop;1
+H;79;Marie;Retraite;Ouvrier qualifie;Non;8;4;Oui;Non;Non;720,0;Non;0,0;Non;Non;Comme il faut;1
+F;46;Marie;Autre inactif;Employe de bureau;Non;4;3;Oui;Oui;Oui;17,14;Non;0,0;Non;Non;Pas assez;1
+F;20;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Non;Oui;Non;240,0;Non;0,0;Non;Non;Pas assez;0
+H;19;Celibataire;Etudiant;Non concerne;formation initiale;3;0;Non;Non;Oui;300,0;Non;0,0;Non;Non;Comme il faut;0
+F;19;Celibataire;Etudiant;Non concerne;formation initiale;6;0;Non;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;0
+H;38;Marie;Exerce profession;Cadre;Non;8;2;Oui;Non;Oui;85,71;Non;0,0;Non;Non;Comme il faut;1
+H;27;Marie;Exerce profession;Employe de bureau;Non;2;1;Non;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+H;54;Marie;Exerce profession;Non concerne;Non;0;1;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;21;Celibataire;Etudiant;Non concerne;formation initiale;4;0;Oui;Oui;Oui;60,0;Non;0,0;Oui;Non;Trop;0
+H;59;Celibataire;Chomeur;Ouvrier specialise;Non;2;0;Oui;Non;Non;360,0;Non;0,0;Non;Non;Comme il faut;0
+H;32;Marie;Exerce profession;Employe de bureau;Non;3;2;Non;Non;Non;120,0;Non;0,0;Oui;Non;Comme il faut;1
+H;32;Celibataire;Chomeur;Cadre;Non;4;0;Non;Non;Non;60,0;Oui;180,0;Non;Oui;Pas assez;0
+F;53;Marie;Exerce profession;Ouvrier specialise;Non;3;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;57;Marie;Chomeur;Ouvrier specialise;Non;4;6;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;33;Celibataire;Exerce profession;Cadre;Non;1;0;Non;Non;Non;180,0;Oui;120,0;Non;Non;Comme il faut;0
+H;24;Celibataire;Exerce profession;Ouvrier specialise;Non;5;0;Non;Non;Oui;300,0;Non;0,0;Non;Non;Comme il faut;0
+F;77;Veuf;Autre inactif;Profession intermediaire;Non;8;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Marie;Autre inactif;Employe de bureau;Non;2;2;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+H;56;Marie;Autre inactif;Profession intermediaire;Non;3;2;Non;Non;Non;120,0;Oui;120,0;Non;Non;Comme il faut;1
+F;43;Marie;Chomeur;Employe de bureau;Non;0;3;Oui;Oui;Non;0,0;Non;60,0;Non;Oui;Comme il faut;1
+F;45;Marie;Exerce profession;Technicien;Non;3;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+F;24;Marie;Exerce profession;Employe de bureau;Non;1;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;0
+H;22;Celibataire;Exerce profession;Technicien;Non;3;0;Oui;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;0
+F;23;Celibataire;Exerce profession;Cadre;Non;4;0;Non;Oui;Oui;240,0;Non;0,0;Oui;Non;Comme il faut;0
+F;83;Veuf;Retraite;Employe de bureau;Non;8;3;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;60;Veuf;Retraite;Employe de bureau;Non;7;4;Oui;Non;Oui;0,0;Non;0,0;Non;Non;Pas assez;1
+F;47;Marie;Exerce profession;Employe de bureau;Non;1;2;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;50;Divorce;Chomeur;Employe de bureau;Non;7;1;Non;Non;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+H;42;Celibataire;Chomeur;Cadre;Non;2;1;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;45;Divorce;Exerce profession;Employe de bureau;Non;4;2;Oui;Oui;Non;180,0;Oui;60,0;Non;Non;Comme il faut;1
+F;88;Veuf;Autre inactif;Profession intermediaire;Non;3;4;Oui;Non;Non;300,0;Non;60,0;Non;Non;Pas assez;1
+F;28;Marie;Exerce profession;Employe de bureau;Non;1;2;Non;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;81;Marie;Retraite;Employe de bureau;Non;2;4;Non;Non;Non;240,0;Non;60,0;Non;Non;Comme il faut;1
+F;40;Divorce;Exerce profession;Non concerne;Non;2;1;Non;Oui;Oui;25,71;Non;0,0;Non;Oui;Pas assez;1
+H;38;Celibataire;Exerce profession;Non concerne;Non;1;3;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;24;Celibataire;Autre inactif;Ouvrier specialise;Non;4;2;Oui;Oui;Oui;180,0;Non;0,0;Non;Oui;Pas assez;1
+H;59;Celibataire;Chomeur;Ouvrier qualifie;Non;7;2;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;55;Marie;Exerce profession;Employe de bureau;Non;2;1;Oui;Oui;Non;102,86;Non;0,0;Non;Oui;Comme il faut;1
+F;22;Celibataire;Chomeur;Employe de bureau;Non;1;0;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;54;Marie;Exerce profession;Ouvrier qualifie;Non;2;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+H;36;Marie;Exerce profession;Cadre;Non;2;2;Oui;Non;Oui;25,71;Non;0,0;Non;Non;Comme il faut;1
+F;31;Celibataire;Exerce profession;Profession intermediaire;Non;0;1;Non;Oui;Non;8,57;Non;0,0;Oui;Oui;Comme il faut;1
+F;24;Marie;Exerce profession;Employe de bureau;Non;2;1;Non;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;44;Marie;Exerce profession;Employe de bureau;Non;2;1;Non;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;1
+F;23;Celibataire;Autre inactif;Ouvrier specialise;Non;2;1;Oui;Non;Non;0,0;Non;0,0;Non;Oui;Pas assez;1
+F;39;Celibataire;Exerce profession;Employe de bureau;Non;6;2;Oui;Oui;Oui;0,0;Non;60,0;Non;Non;Comme il faut;1
+F;35;Marie;Autre inactif;Employe de bureau;Non;0;3;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;58;Divorce;Exerce profession;Employe de bureau;Non;10;3;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;36;Marie;Exerce profession;Cadre;Non;1;2;Non;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;49;Marie;Exerce profession;Ouvrier qualifie;Non;4;5;Oui;Oui;Non;34,29;Non;0,0;Non;Non;Comme il faut;1
+F;25;Celibataire;Etudiant;Non concerne;Non;0;0;Non;Non;Oui;0,0;Non;120,0;Non;Non;Comme il faut;0
+F;49;Marie;Exerce profession;Profession intermediaire;Non;4;2;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;23;Celibataire;Chomeur;Ouvrier specialise;Non;2;0;Non;Non;Oui;180,0;Non;0,0;Non;Oui;Comme il faut;0
+F;70;Divorce;Retraite;Employe de bureau;Non;0;2;Non;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;56;Marie;Exerce profession;Ouvrier qualifie;Non;10;2;Oui;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+H;60;Marie;Exerce profession;Non concerne;Non;3;2;Non;Non;Non;128,57;Non;60,0;Non;Non;Comme il faut;1
+H;35;Marie;Exerce profession;Ouvrier qualifie;Non;5;2;Oui;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Marie;Autre inactif;Non concerne;Non;11;4;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;78;Marie;Au foyer;Non concerne;Non;3;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;42;Marie;Exerce profession;Employe de bureau;Non;2;2;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;78;Marie;Retraite;Profession intermediaire;Non;3;3;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+H;20;Celibataire;Exerce profession;Non concerne;Non;1;0;Oui;Non;Oui;257,14;Non;0,0;Non;Non;Pas assez;0
+F;50;Marie;Exerce profession;Employe de bureau;Non;2;1;Oui;Oui;Oui;51,43;Non;0,0;Non;Non;Pas assez;1
+H;32;Divorce;Exerce profession;Technicien;Non;1;1;Non;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;67;Marie;Retraite;Employe de bureau;Non;5;3;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;46;Divorce;Chomeur;Employe de bureau;Non;3;4;Non;Oui;Non;120,0;Non;0,0;Non;Oui;Pas assez;1
+F;26;Marie;Autre inactif;Non concerne;Non;7;0;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;0
+F;27;Marie;Exerce profession;Employe de bureau;Non;1;2;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;90;Celibataire;Retraite;Employe de bureau;Non;4;0;Non;Non;Non;300,0;Non;0,0;Non;Oui;Pas assez;0
+F;54;Marie;Exerce profession;Ouvrier specialise;Non;3;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;50;Divorce;Exerce profession;Employe de bureau;Non;10;3;Non;Oui;Non;240,0;Non;8,57;Non;Non;Comme il faut;1
+F;45;Divorce;Exerce profession;Employe de bureau;Non;2;1;Non;Oui;Oui;0,0;Non;0,0;Non;Non;Pas assez;1
+H;28;Celibataire;Chomeur;Technicien;Non;1;0;Non;Non;Oui;360,0;Non;0,0;Non;Non;Comme il faut;0
+H;42;Divorce;Exerce profession;Ouvrier qualifie;Non;1;1;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;44;Marie;Exerce profession;Employe de bureau;Non;6;2;Non;Oui;Non;25,71;Non;85,71;Non;Non;Pas assez;1
+F;56;Marie;Exerce profession;Employe de bureau;Non;4;1;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;51;Marie;Exerce profession;Employe de bureau;Non;6;2;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;47;Marie;Exerce profession;Profession intermediaire;Non;5;3;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;74;Marie;Retraite;Profession intermediaire;Non;1;5;Non;Non;Non;180,0;Non;120,0;Non;Oui;Comme il faut;1
+F;63;Marie;Exerce profession;Cadre;Non;3;2;Oui;Oui;Oui;51,43;Non;120,0;Non;Oui;Comme il faut;1
+F;55;Divorce;Exerce profession;Cadre;Non;5;0;Non;Non;Oui;0,0;Non;0,0;Non;Oui;Pas assez;0
+H;47;Celibataire;Exerce profession;Cadre;Non;3;2;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;37;Marie;Exerce profession;Cadre;Non;2;3;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;43;Divorce;Exerce profession;Employe de bureau;Non;3;1;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;59;Marie;Exerce profession;Non concerne;Non;6;2;Non;Non;Non;60,0;Oui;25,71;Non;Non;Comme il faut;1
+H;65;Marie;Autre inactif;Ouvrier qualifie;Non;1;2;Oui;Non;Non;180,0;Non;60,0;Non;Non;Comme il faut;1
+H;28;Marie;Exerce profession;Employe de bureau;Non;1;0;Non;Non;Oui;102,86;Non;0,0;Non;Non;Comme il faut;0
+F;92;Veuf;Retraite;Employe de bureau;Non;3;1;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;54;Divorce;Autre inactif;Employe de bureau;Non;10;9;Non;Oui;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+H;44;Marie;Exerce profession;Ouvrier qualifie;Non;4;3;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;47;Divorce;Exerce profession;Ouvrier qualifie;Non;7;2;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;35;Marie;Etudiant;Cadre;Non;1;2;Oui;Oui;Non;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;36;Marie;Exerce profession;Employe de bureau;Non;3;2;Non;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+H;72;Veuf;Retraite;Cadre;Non;0;7;Oui;Non;Non;240,0;Non;0,0;Non;Oui;Comme il faut;1
+F;54;Marie;Chomeur;Employe de bureau;Non;9;3;Non;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+H;64;Marie;Retraite;Employe de bureau;Non;1;0;Oui;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;0
+H;48;Marie;Exerce profession;Ouvrier qualifie;Non;1;3;Oui;Non;Non;120,0;Non;25,71;Non;Non;Comme il faut;1
+F;58;Marie;Retraite;Employe de bureau;Non;3;1;Oui;Oui;Non;300,0;Non;0,0;Non;Non;Pas assez;1
+F;20;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;0
+H;81;Celibataire;Retraite;Autre;Non;5;0;Non;Non;Non;60,0;Non;60,0;Non;Non;Comme il faut;0
+F;47;Marie;Exerce profession;Employe de bureau;Non;7;3;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;48;Marie;Exerce profession;Profession intermediaire;Non;3;2;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;59;Marie;Chomeur;Ouvrier qualifie;Non;2;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;40;Celibataire;Exerce profession;Non concerne;Non;2;3;Non;Oui;Non;42,86;Non;0,0;Non;Non;Pas assez;1
+F;41;Marie;Exerce profession;Cadre;Non;4;2;Oui;Oui;Oui;180,0;Non;60,0;Non;Non;Pas assez;1
+F;53;Marie;Exerce profession;Cadre;Non;1;3;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;31;Celibataire;Exerce profession;Cadre;Non;1;0;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;0
+H;52;Marie;Exerce profession;Cadre;Non;4;3;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;26;Celibataire;Exerce profession;Cadre;Non;2;0;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;53;Divorce;Exerce profession;Non concerne;Non;1;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;78;Veuf;Retraite;Employe de bureau;Non;7;0;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;0
+F;29;Marie;Exerce profession;Ouvrier qualifie;Non;1;1;Non;Non;Oui;180,0;Non;0,0;Non;Oui;Comme il faut;1
+H;35;Marie;Exerce profession;Profession intermediaire;Non;0;2;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+H;35;Marie;Exerce profession;Cadre;Non;11;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;67;Marie;Retraite;Employe de bureau;Non;3;4;Oui;Non;Non;300,0;Non;180,0;Non;Non;Comme il faut;1
+H;31;Marie;Exerce profession;Ouvrier specialise;Non;8;0;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;47;Marie;Exerce profession;Employe de bureau;Non;4;3;Oui;Non;Oui;180,0;Non;60,0;Non;Oui;Pas assez;1
+F;32;Celibataire;Exerce profession;Profession intermediaire;Non;2;0;Non;Non;Non;60,0;Non;25,71;Non;Oui;Comme il faut;0
+H;69;Marie;Retraite;Cadre;Non;5;5;Oui;Non;Oui;25,71;Oui;120,0;Non;Non;Comme il faut;1
+F;67;Marie;Retraite;Employe de bureau;Non;8;3;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;59;Marie;Retraite;Employe de bureau;Non;0;3;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;44;Marie;Exerce profession;Employe de bureau;Non;2;3;Oui;Oui;Non;180,0;Non;0,0;Non;Oui;Comme il faut;1
+H;22;Celibataire;Etudiant;Non concerne;formation initiale;3;0;Non;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;0
+F;53;Marie;Chomeur;Ouvrier specialise;Non;8;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;20;Celibataire;Exerce profession;Ouvrier qualifie;Non;1;0;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;41;Marie;Exerce profession;Technicien;Non;1;2;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;56;Marie;Retraite;Cadre;Non;1;4;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;31;Marie;Exerce profession;Employe de bureau;Non;4;2;Oui;Oui;Non;0,0;Non;0,0;Non;Oui;Pas assez;1
+H;26;Celibataire;Exerce profession;Non concerne;Non;1;0;Non;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;0
+F;39;Marie;Exerce profession;Ouvrier qualifie;Non;5;3;Non;Non;Oui;162,86;Non;0,0;Non;Oui;Pas assez;1
+H;26;Celibataire;Exerce profession;Non concerne;Non;2;0;Non;Oui;Oui;120,0;Non;0,0;Oui;Non;Comme il faut;0
+H;58;Marie;Retraite;Ouvrier specialise;Non;5;3;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;34;Celibataire;Chomeur;Employe de bureau;Non;3;0;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;0
+F;44;Marie;Exerce profession;Employe de bureau;Non;7;2;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;44;Divorce;Exerce profession;Employe de bureau;Non;3;1;Non;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+F;41;Marie;Exerce profession;Employe de bureau;Non;3;3;Oui;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;39;Marie;Exerce profession;Employe de bureau;Non;1;2;Oui;Non;Non;180,0;Non;60,0;Non;Oui;Comme il faut;1
+H;45;Marie;Exerce profession;Technicien;Non;3;2;Oui;Oui;Oui;60,0;Non;0,0;Oui;Non;Comme il faut;1
+H;47;Celibataire;Exerce profession;Ouvrier specialise;Non;2;0;Non;Non;Oui;171,43;Non;0,0;Non;Non;Comme il faut;0
+H;45;Divorce;Exerce profession;Technicien;Non;3;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;47;Marie;Exerce profession;Ouvrier qualifie;Non;3;4;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;65;Marie;Retraite;Ouvrier qualifie;Non;3;2;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+H;36;Marie;Chomeur;Ouvrier specialise;Non;15;0;Oui;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;0
+H;19;Celibataire;Etudiant;Non concerne;formation initiale;3;0;Non;Oui;Oui;8,57;Non;0,0;Non;Non;Comme il faut;0
+H;49;Marie;Exerce profession;Autre;Non;3;2;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;44;Marie;Exerce profession;Non concerne;Non;2;5;Oui;Non;Oui;34,29;Non;0,0;Non;Non;Pas assez;1
+H;64;Marie;Retraite;Ouvrier specialise;Non;2;4;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;50;Marie;Exerce profession;Ouvrier qualifie;Non;6;5;Oui;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;35;Celibataire;Exerce profession;Ouvrier qualifie;Non;4;2;Non;Oui;Non;300,0;Non;0,0;Non;Non;Trop;1
+F;33;Celibataire;Exerce profession;Non concerne;Non;1;0;Non;Non;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;0
+H;48;Marie;Exerce profession;Ouvrier qualifie;Non;3;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;29;Marie;Exerce profession;Employe de bureau;Non;2;1;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;26;Marie;Exerce profession;Employe de bureau;Non;1;1;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;32;Celibataire;Exerce profession;Ouvrier qualifie;Non;2;1;Oui;Oui;Oui;205,71;Non;0,0;Non;Non;Comme il faut;1
+H;46;Marie;Exerce profession;Autre;Non;0;2;Oui;Non;Non;120,0;Non;60,0;Non;Non;Comme il faut;1
+H;57;Marie;Exerce profession;Non concerne;Non;0;2;Oui;Oui;Non;25,71;Non;0,0;Non;Non;Comme il faut;1
+H;29;Marie;Exerce profession;Autre;Non;2;0;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;47;Marie;Exerce profession;Employe de bureau;Non;2;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;53;Marie;Exerce profession;Cadre;Non;0;2;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;23;Celibataire;Chomeur;Ouvrier qualifie;Non;2;0;Non;Non;Non;17,14;Non;0,0;Non;Non;Pas assez;0
+H;44;Marie;Exerce profession;Ouvrier specialise;Non;7;1;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;42;Marie;Exerce profession;Cadre;Non;8;2;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;67;Divorce;Autre inactif;Non concerne;Non;1;3;Non;Non;Non;0,0;Non;0,0;Non;Non;Refus;1
+F;25;Celibataire;Exerce profession;Employe de bureau;Reprise de formation;5;0;Non;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;0
+H;56;Marie;Exerce profession;Employe de bureau;Non;4;3;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Pas assez;1
+F;54;Marie;Exerce profession;Employe de bureau;Non;0;2;Non;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;44;Marie;Autre inactif;Non concerne;Non;7;6;Non;Non;Non;240,0;Non;42,86;Non;Non;Comme il faut;1
+F;33;Celibataire;Exerce profession;Employe de bureau;Non;3;1;Non;Non;Non;0,0;Non;120,0;Non;Non;Comme il faut;1
+F;25;Celibataire;Etudiant;Employe de bureau;Reprise de formation;1;0;Non;Oui;Oui;4,0;Non;0,0;Non;Non;Comme il faut;0
+F;25;Celibataire;Exerce profession;Employe de bureau;Non;2;1;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Trop;1
+F;78;Veuf;Autre inactif;Employe de bureau;Non;2;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;43;Celibataire;Chomeur;Autre;Non;4;0;Oui;Non;Oui;180,0;Non;0,0;Oui;Non;Comme il faut;0
+H;51;Marie;Exerce profession;Non concerne;Non;5;2;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;30;Marie;Exerce profession;Technicien;Non;1;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;23;Celibataire;Exerce profession;Profession intermediaire;Non;1;0;Non;Non;Oui;17,14;Non;0,0;Non;Non;Pas assez;0
+F;37;Celibataire;Autre inactif;Non concerne;Non;1;0;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;0
+F;69;Marie;Retraite;Employe de bureau;Non;0;4;Oui;Oui;Non;300,0;Non;0,0;Non;Oui;Pas assez;1
+F;76;Marie;Autre inactif;Non concerne;Non;1;3;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;85;Veuf;Autre inactif;Technicien;Non;1;1;Oui;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;56;Marie;Exerce profession;Profession intermediaire;Non;2;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+F;73;Celibataire;Retraite;Profession intermediaire;Non;3;0;Non;Oui;Non;60,0;Non;0,0;Non;Oui;Comme il faut;0
+F;45;Marie;Exerce profession;Profession intermediaire;Non;2;0;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;0
+H;74;Celibataire;Retraite;Cadre;Non;1;0;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;0
+F;37;Celibataire;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Non;240,0;Non;0,0;Non;Oui;Comme il faut;1
+F;33;Celibataire;Exerce profession;Autre;Non;2;0;Non;Oui;Non;25,71;Non;8,57;Non;Oui;Pas assez;0
+F;67;Marie;Retraite;Ouvrier qualifie;Non;8;0;Non;Oui;Non;540,0;Non;0,0;Non;Non;Pas assez;0
+F;82;Marie;Au foyer;Non concerne;Non;2;2;Non;Oui;Non;420,0;Non;0,0;Non;Non;Pas assez;1
+F;50;Marie;Autre inactif;Non concerne;Non;2;2;Non;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;36;Celibataire;Exerce profession;Autre;Non;2;1;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;54;Marie;Exerce profession;Employe de bureau;Non;5;1;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+H;20;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Non;Oui;17,14;Non;0,0;Non;Oui;Comme il faut;0
+H;53;Celibataire;Exerce profession;Ouvrier qualifie;Non;4;0;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;35;Marie;Exerce profession;Technicien;Non;4;3;Non;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+F;44;Marie;Exerce profession;Employe de bureau;Non;13;4;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;18;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;59;Marie;Retraite;Employe de bureau;Non;1;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+F;53;Marie;Exerce profession;Ouvrier qualifie;Non;13;2;Non;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;55;Veuf;Exerce profession;Ouvrier specialise;Non;1;3;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;39;Celibataire;Exerce profession;Employe de bureau;Non;2;2;Non;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;69;Marie;Retraite;Employe de bureau;Reprise de formation;1;2;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;21;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Oui;Oui;240,0;Non;0,0;Non;Oui;Comme il faut;0
+H;62;Divorce;Retraite;Ouvrier specialise;Non;7;6;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;44;Marie;Exerce profession;Ouvrier qualifie;Non;2;1;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;36;Marie;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Non;180,0;Non;0,0;Oui;Oui;Pas assez;1
+H;51;Celibataire;Autre inactif;Cadre;Non;1;0;Non;Oui;Non;51,43;Non;0,0;Non;Non;Comme il faut;0
+F;42;Divorce;Chomeur;Ouvrier qualifie;Non;2;1;Non;Oui;Oui;0,0;Non;0,0;Non;Oui;Comme il faut;1
+H;73;Divorce;Retraite;Employe de bureau;Non;6;4;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;56;Marie;Exerce profession;Cadre;Non;1;3;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;37;Divorce;Exerce profession;Ouvrier qualifie;Non;4;2;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;66;Veuf;Retraite;Employe de bureau;Non;13;2;Oui;Oui;Non;240,0;Non;0,0;Non;Oui;Comme il faut;1
+F;46;Marie;Exerce profession;Ouvrier specialise;Non;2;0;Non;Oui;Non;360,0;Non;0,0;Non;Non;Pas assez;0
+F;40;Marie;Chomeur;Employe de bureau;Non;5;0;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;0
+F;55;Marie;Exerce profession;Employe de bureau;Non;4;2;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;66;Marie;Retraite;Ouvrier qualifie;Non;4;0;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;0
+F;43;Marie;Exerce profession;Non concerne;Non;2;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;36;Marie;Exerce profession;Ouvrier qualifie;Non;3;2;Oui;Non;Non;60,0;Non;0,0;Oui;Non;Pas assez;1
+H;77;Marie;Retraite;Technicien;Non;0;1;Non;Oui;Oui;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;29;Marie;Exerce profession;Employe de bureau;Non;2;0;Non;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;0
+H;41;Marie;Exerce profession;Profession intermediaire;Non;7;2;Oui;Oui;Non;300,0;Non;0,0;Non;Non;Pas assez;1
+H;25;Divorce;Chomeur;Ouvrier specialise;Non;9;0;Non;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;0
+H;55;Marie;Exerce profession;Profession intermediaire;Non;1;1;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;80;Veuf;Retraite;Ouvrier specialise;Non;8;2;Non;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;47;Celibataire;Exerce profession;Autre;Non;3;1;Oui;Oui;Non;85,71;Non;0,0;Non;Non;Comme il faut;1
+H;45;Marie;Exerce profession;Ouvrier qualifie;Non;8;2;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;21;Celibataire;Etudiant;Non concerne;formation initiale;6;0;Non;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;0
+H;21;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Oui;Oui;25,71;Non;0,0;Non;Non;Comme il faut;0
+H;47;Marie;Exerce profession;Employe de bureau;Non;6;2;Non;Non;Non;120,0;Non;0,0;Oui;Non;Comme il faut;1
+F;34;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Non;Oui;Oui;17,14;Non;0,0;Non;Non;Comme il faut;0
+F;57;Marie;Exerce profession;Cadre;Non;2;4;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;42;Marie;Exerce profession;Employe de bureau;Non;2;3;Non;Oui;Non;180,0;Non;17,14;Non;Non;Comme il faut;1
+F;54;Marie;Autre inactif;Employe de bureau;Non;7;5;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;39;Marie;Exerce profession;Cadre;Non;5;1;Oui;Oui;Non;68,57;Oui;34,29;Non;Non;Comme il faut;1
+F;42;Marie;Exerce profession;Employe de bureau;Non;2;0;Oui;Oui;Oui;240,0;Non;0,0;Non;Non;Trop;0
+F;55;Marie;Autre inactif;Cadre;Non;1;1;Non;Oui;Non;60,0;Non;120,0;Non;Non;Comme il faut;1
+F;52;Divorce;Exerce profession;Employe de bureau;Non;7;3;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;72;Veuf;Retraite;Ouvrier qualifie;Non;5;4;Oui;Oui;Non;240,0;Non;0,0;Non;Oui;Comme il faut;1
+F;46;Divorce;Exerce profession;Technicien;Non;1;2;Non;Non;Oui;0,0;Non;0,0;Non;Oui;Comme il faut;1
+H;64;Marie;Au foyer;Non concerne;Non;1;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;37;Marie;Exerce profession;Employe de bureau;Non;1;1;Oui;Oui;Non;120,0;Non;0,0;Oui;Non;Comme il faut;1
+F;74;Veuf;Retraite;Employe de bureau;Non;3;0;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;74;Marie;Retraite;Ouvrier specialise;Non;1;2;Oui;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;54;Veuf;Exerce profession;Employe de bureau;Non;2;4;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;70;Marie;Retraite;Employe de bureau;Non;0;2;Non;Non;Non;240,0;Non;60,0;Non;Non;Comme il faut;1
+F;47;Divorce;Chomeur;Employe de bureau;Non;1;3;Non;Non;Oui;360,0;Non;0,0;Non;Oui;Pas assez;1
+H;44;Marie;Exerce profession;Ouvrier qualifie;Non;9;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;52;Marie;Exerce profession;Employe de bureau;Non;7;3;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;80;Veuf;Retraite;Employe de bureau;Non;4;1;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+H;49;Marie;Exerce profession;Non concerne;Non;2;3;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;45;Marie;Exerce profession;Cadre;Non;3;3;Oui;Non;Oui;25,71;Non;0,0;Non;Oui;Comme il faut;1
+F;26;Veuf;Exerce profession;Ouvrier specialise;Non;6;1;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+F;48;Marie;Autre inactif;Profession intermediaire;Non;3;3;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Marie;Exerce profession;Employe de bureau;Non;3;2;Non;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+H;77;Marie;Retraite;Technicien;Non;1;1;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;61;Divorce;Retraite;Cadre;Non;2;3;Oui;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;70;Marie;Retraite;Employe de bureau;Non;4;1;Non;Oui;Non;120,0;Non;240,0;Non;Non;Pas assez;1
+F;29;Celibataire;Exerce profession;Non concerne;Non;2;0;Oui;Oui;Oui;2,0;Non;0,0;Non;Oui;Comme il faut;0
+F;40;Divorce;Exerce profession;Employe de bureau;Non;5;0;Non;Oui;Non;180,0;Oui;128,57;Non;Oui;Pas assez;0
+F;22;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;0
+H;46;Divorce;Exerce profession;Technicien;Non;5;3;Non;Oui;Non;42,86;Non;0,0;Non;Non;Comme il faut;1
+H;49;Marie;Exerce profession;Cadre;Non;1;2;Oui;Non;Non;68,57;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Autre inactif;Employe de bureau;Non;1;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;71;Veuf;Retraite;Cadre;Non;3;5;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;49;Celibataire;Exerce profession;Employe de bureau;Non;4;1;Non;Non;Oui;12,0;Non;0,0;Oui;Oui;Comme il faut;1
+F;40;Celibataire;Exerce profession;Cadre;Non;3;2;Oui;Non;Non;120,0;Non;0,0;Non;Oui;Pas assez;1
+F;45;Marie;Autre inactif;Non concerne;Non;7;3;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;30;Marie;Exerce profession;Cadre;Non;2;2;Non;Oui;Non;17,14;Non;0,0;Non;Oui;Comme il faut;1
+F;24;Celibataire;Exerce profession;Employe de bureau;Non;1;1;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;20;Celibataire;Chomeur;Non concerne;Non;5;1;Non;Non;Non;420,0;Non;0,0;Non;Non;Trop;1
+H;45;Marie;Exerce profession;Employe de bureau;Non;1;2;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;60;Marie;Autre inactif;Cadre;Non;5;4;Non;Non;Non;25,71;Non;60,0;Non;Non;Comme il faut;1
+F;58;Marie;Exerce profession;Autre;Non;7;2;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;53;Marie;Chomeur;Employe de bureau;Non;7;2;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+H;66;Marie;Retraite;Non concerne;Non;4;0;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;0
+F;75;Veuf;Retraite;Ouvrier specialise;Non;1;3;Non;Non;Non;720,0;Non;0,0;Non;Non;Comme il faut;1
+H;45;Marie;Chomeur;Ouvrier specialise;Non;7;4;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;87;Marie;Retraite;Cadre;Non;3;2;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;70;Marie;Autre inactif;Non concerne;Non;6;6;Oui;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Marie;Exerce profession;Cadre;Non;5;2;Oui;Oui;Oui;180,0;Oui;34,29;Non;Non;Comme il faut;1
+F;52;Divorce;Exerce profession;Employe de bureau;Non;3;2;Non;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;28;Celibataire;Exerce profession;Ouvrier qualifie;Non;2;2;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;46;Marie;Exerce profession;Profession intermediaire;Non;3;3;Oui;Oui;Non;300,0;Non;0,0;Non;Non;Pas assez;1
+H;65;Marie;Retraite;Cadre;Non;2;2;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;34;Marie;Exerce profession;Employe de bureau;Non;1;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+H;36;Marie;Exerce profession;Ouvrier qualifie;Non;4;2;Non;Non;Oui;60,0;Non;0,0;Non;Non;Pas assez;1
+F;46;Divorce;Exerce profession;Non concerne;Non;3;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;25;Celibataire;Chomeur;Non concerne;Non;6;0;Non;Non;Oui;17,14;Non;0,0;Non;Non;Pas assez;0
+H;42;Marie;Exerce profession;Cadre;Non;1;1;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;38;Marie;Chomeur;Employe de bureau;Non;1;2;Oui;Oui;Non;300,0;Oui;120,0;Non;Oui;Trop;1
+H;36;Celibataire;Exerce profession;Cadre;Non;1;0;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;0
+F;50;Divorce;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Non;360,0;Non;25,71;Non;Non;Comme il faut;1
+H;57;Marie;Exerce profession;Profession intermediaire;Non;3;2;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;49;Marie;Exerce profession;Non concerne;Non;4;1;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;73;Veuf;Autre inactif;Cadre;Non;1;3;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Marie;Autre inactif;Employe de bureau;Non;9;4;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;55;Marie;Retraite;Autre;Non;6;2;Non;Non;Non;0,0;Non;120,0;Non;Non;Pas assez;1
+F;18;Celibataire;Etudiant;Non concerne;formation initiale;4;0;Non;Non;Non;60,0;Non;0,0;Non;Non;Trop;0
+H;59;Marie;Exerce profession;Ouvrier qualifie;Non;6;1;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;50;Marie;Etudiant;Non concerne;Reprise de formation;0;3;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;38;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;0
+H;55;Marie;Exerce profession;Ouvrier qualifie;Non;8;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;79;Marie;Retraite;Ouvrier qualifie;Non;7;5;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;61;Celibataire;Retraite;Technicien;Non;1;0;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;76;Marie;Retraite;Ouvrier qualifie;Non;3;0;Non;Non;Non;300,0;Non;17,14;Non;Non;Comme il faut;0
+F;30;Celibataire;Chomeur;Employe de bureau;Non;4;1;Non;Oui;Non;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;21;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Oui;Oui;Non;34,29;Non;0,0;Non;Non;Comme il faut;0
+F;57;Marie;Autre inactif;Ouvrier qualifie;Non;5;5;Non;Oui;Non;360,0;Non;0,0;Non;Non;Pas assez;1
+F;38;Divorce;Exerce profession;Employe de bureau;Non;1;4;Non;Oui;Non;42,86;Non;0,0;Non;Oui;Pas assez;1
+F;39;Marie;Autre inactif;Non concerne;Non;7;3;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;49;Marie;Exerce profession;Employe de bureau;Non;0;3;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;22;Celibataire;Exerce profession;Technicien;formation initiale;2;0;Non;Non;Oui;180,0;Non;0,0;Non;Oui;Pas assez;0
+H;47;Marie;Exerce profession;Ouvrier qualifie;Non;5;4;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;24;Celibataire;Chomeur;Employe de bureau;Non;0;0;Non;Oui;Non;360,0;Non;0,0;Oui;Oui;Pas assez;0
+H;60;Marie;Retraite;Technicien;Non;2;2;Oui;Non;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;1
+F;54;Marie;Exerce profession;Autre;Non;3;3;Oui;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;48;Marie;Exerce profession;Profession intermediaire;Non;5;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;58;Veuf;Autre inactif;Autre;Non;7;4;Non;Oui;Non;300,0;Non;0,0;Non;Non;Pas assez;1
+F;42;Marie;Autre inactif;Ouvrier qualifie;Non;0;2;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;30;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Oui;Oui;300,0;Non;0,0;Non;Non;Comme il faut;0
+F;82;Divorce;Retraite;Employe de bureau;Non;6;1;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;77;Marie;Retraite;Employe de bureau;Non;2;4;Non;Non;Oui;0,0;Non;0,0;Non;Non;Pas assez;1
+H;70;Marie;Retraite;Cadre;Non;1;3;Non;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;50;Marie;Exerce profession;Non concerne;Non;2;5;Non;Oui;Non;180,0;Non;0,0;Non;Oui;Comme il faut;1
+H;35;Marie;Exerce profession;Profession intermediaire;Non;1;2;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;53;Veuf;Autre inactif;Ouvrier specialise;Non;7;0;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;0
+H;53;Marie;Exerce profession;Ouvrier specialise;Non;10;5;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;43;Marie;Exerce profession;Ouvrier qualifie;Non;0;2;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+F;47;Marie;Exerce profession;Employe de bureau;Non;2;2;Oui;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;68;Marie;Retraite;Ouvrier qualifie;Non;3;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;42;Divorce;Exerce profession;Ouvrier specialise;Non;3;2;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;32;Marie;Exerce profession;Ouvrier qualifie;Non;3;2;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;59;Divorce;Exerce profession;Ouvrier specialise;Non;1;3;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;51;Marie;Exerce profession;Ouvrier qualifie;Non;3;2;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;46;Divorce;Exerce profession;Employe de bureau;Non;4;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;45;Marie;Exerce profession;Cadre;Non;3;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;29;Marie;Chomeur;Ouvrier specialise;Non;7;0;Non;Oui;Oui;960,0;Non;0,0;Non;Non;Comme il faut;0
+H;31;Celibataire;Chomeur;Technicien;Non;3;0;Non;Non;Oui;120,0;Non;60,0;Non;Non;Comme il faut;0
+H;34;Marie;Exerce profession;Ouvrier specialise;Non;4;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;67;Marie;Retraite;Cadre;Non;0;1;Oui;Oui;Non;360,0;Non;0,0;Non;Non;Pas assez;1
+H;71;Veuf;Retraite;Ouvrier qualifie;Non;1;3;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;45;Marie;Exerce profession;Non concerne;Non;2;1;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+F;32;Marie;Chomeur;Ouvrier specialise;Non;6;2;Non;Oui;Non;360,0;Non;0,0;Non;Non;Pas assez;1
+F;28;Celibataire;Exerce profession;Ouvrier specialise;Non;2;0;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;47;Marie;Exerce profession;Employe de bureau;Non;2;4;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;25;Celibataire;Exerce profession;Profession intermediaire;Non;1;0;Non;Oui;Non;120,0;Non;0,0;Non;Oui;Comme il faut;0
+F;50;Divorce;Exerce profession;Technicien;Non;1;1;Oui;Non;Non;60,0;Non;0,0;Non;Oui;Pas assez;1
+H;50;Marie;Exerce profession;Employe de bureau;Non;3;4;Oui;Non;Non;17,14;Non;0,0;Non;Non;Comme il faut;1
+F;65;Marie;Autre inactif;Non concerne;Non;3;5;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;82;Marie;Retraite;Ouvrier specialise;Non;5;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+F;45;Marie;Exerce profession;Employe de bureau;Non;1;1;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;65;Marie;Au foyer;Non concerne;Non;4;2;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;54;Divorce;Exerce profession;Cadre;Non;2;2;Oui;Oui;Oui;42,86;Non;120,0;Non;Oui;Pas assez;1
+H;48;Marie;Exerce profession;Profession intermediaire;Non;1;1;Oui;Non;Oui;180,0;Non;120,0;Non;Non;Pas assez;1
+F;29;Marie;Exerce profession;Technicien;Non;1;2;Non;Non;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+H;64;Marie;Au foyer;Non concerne;Non;4;3;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;51;Marie;Exerce profession;Non concerne;Non;5;2;Oui;Oui;Oui;60,0;Non;25,71;Non;Non;Comme il faut;1
+F;57;Marie;Retraite;Cadre;Non;1;2;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;47;Marie;Autre inactif;Ouvrier specialise;Non;5;2;Non;Oui;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+H;51;Marie;Exerce profession;Ouvrier qualifie;Non;5;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;69;Marie;Au foyer;Non concerne;Non;4;3;Oui;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;55;Marie;Autre inactif;Employe de bureau;Non;3;3;Non;Oui;Oui;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;55;Marie;Exerce profession;Employe de bureau;Non;1;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;71;Marie;Retraite;Profession intermediaire;Non;1;3;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;73;Marie;Retraite;Ouvrier qualifie;Non;0;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;40;Celibataire;Exerce profession;Cadre;Non;4;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;48;Marie;Exerce profession;Cadre;Non;1;1;Oui;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;42;Celibataire;Exerce profession;Cadre;Non;1;2;Non;Non;Oui;34,29;Non;0,0;Non;Non;Comme il faut;1
+H;48;Marie;Exerce profession;Profession intermediaire;Non;2;3;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;50;Divorce;Autre inactif;Employe de bureau;Non;11;1;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;78;Celibataire;Autre inactif;Non concerne;Non;3;0;Non;Non;Non;240,0;Non;120,0;Non;Non;Pas assez;0
+F;43;Marie;Exerce profession;Employe de bureau;Non;4;2;Non;Non;Non;120,0;Non;0,0;Non;Oui;Pas assez;1
+H;52;Marie;Exerce profession;Cadre;Non;4;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+H;30;Celibataire;Exerce profession;Technicien;Non;0;1;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;31;Marie;Exerce profession;Cadre;Non;2;3;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;51;Marie;Exerce profession;Employe de bureau;Non;0;2;Oui;Oui;Non;25,71;Non;0,0;Non;Non;Pas assez;1
+H;58;Marie;Autre inactif;Ouvrier qualifie;Non;3;1;Oui;Oui;Oui;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;74;Marie;Au foyer;Non concerne;Non;1;2;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;83;Veuf;Retraite;Employe de bureau;Non;4;5;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;51;Marie;Exerce profession;Ouvrier qualifie;Non;0;2;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;36;Marie;Exerce profession;Ouvrier qualifie;Non;3;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;50;Marie;Exerce profession;Employe de bureau;Non;4;1;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;71;Veuf;Retraite;Ouvrier specialise;Non;3;3;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;53;Marie;Exerce profession;Employe de bureau;Non;1;2;Non;Oui;Non;60,0;Non;120,0;Non;Oui;Pas assez;1
+H;64;Marie;Retraite;Ouvrier qualifie;Non;5;12;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;61;Marie;Exerce profession;Employe de bureau;Non;6;3;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;72;Veuf;Retraite;Employe de bureau;Non;1;2;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;37;Marie;Exerce profession;Non concerne;Non;5;2;Non;Oui;Oui;85,71;Oui;85,71;Non;Oui;Comme il faut;1
+H;48;Divorce;Exerce profession;Employe de bureau;Non;1;3;Oui;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;24;Celibataire;Etudiant;Non concerne;formation initiale;0;0;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;0
+H;45;Divorce;Exerce profession;Technicien;Non;2;2;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;29;Celibataire;Chomeur;Profession intermediaire;Non;10;0;Non;Non;Non;240,0;Non;0,0;Non;Oui;Comme il faut;0
+H;28;Celibataire;Exerce profession;Ouvrier specialise;Non;3;0;Oui;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;0
+F;42;Divorce;Exerce profession;Employe de bureau;Non;1;3;Oui;Oui;Non;8,57;Non;0,0;Non;Non;Comme il faut;1
+F;39;Celibataire;Exerce profession;Non concerne;Non;2;0;Non;Non;Oui;0,0;Non;60,0;Non;Non;Pas assez;0
+F;18;Celibataire;Etudiant;Non concerne;formation initiale;0;0;Oui;Oui;Oui;8,57;Non;0,0;Non;Non;Pas assez;0
+H;47;Divorce;Exerce profession;Ouvrier qualifie;Non;4;3;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+H;21;Celibataire;Exerce profession;Ouvrier specialise;Non;3;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;54;Marie;Exerce profession;Cadre;Non;7;2;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;32;Celibataire;Autre inactif;Employe de bureau;Non;8;3;Non;Oui;Non;300,0;Non;0,0;Non;Oui;Comme il faut;1
+H;39;Celibataire;Exerce profession;Ouvrier qualifie;Non;8;0;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;48;Marie;Exerce profession;Ouvrier qualifie;Non;5;5;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;49;Celibataire;Exerce profession;Technicien;Non;3;0;Non;Oui;Non;120,0;Non;0,0;Non;Non;Refus;0
+F;52;Marie;Chomeur;Ouvrier specialise;Non;3;3;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;69;Divorce;Retraite;Non concerne;Non;1;3;Non;Non;Non;60,0;Non;120,0;Non;Non;Comme il faut;1
+F;72;Marie;Retraite;Employe de bureau;Non;5;3;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;21;Celibataire;Exerce profession;Ouvrier qualifie;Non;3;0;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;71;Veuf;Retraite;Employe de bureau;Non;3;4;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;53;Marie;Exerce profession;Ouvrier qualifie;Non;8;5;Non;Non;Non;25,71;Non;0,0;Non;Non;Comme il faut;1
+H;40;Marie;Exerce profession;Ouvrier qualifie;Non;6;3;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;26;Marie;Exerce profession;Employe de bureau;Non;2;1;Non;Oui;Non;0,0;Non;60,0;Non;Oui;Comme il faut;1
+H;23;Celibataire;Exerce profession;Non concerne;Non;3;0;Oui;Oui;Non;0,0;Non;0,0;Oui;Non;Comme il faut;0
+H;49;Marie;Exerce profession;Employe de bureau;Non;3;2;Non;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;58;Marie;Autre inactif;Employe de bureau;Non;6;2;Non;Oui;Non;240,0;Non;60,0;Non;Non;Pas assez;1
+F;59;Marie;Autre inactif;Employe de bureau;Non;5;4;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;63;Marie;Retraite;Cadre;Non;3;2;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;29;Divorce;Exerce profession;Ouvrier qualifie;Non;3;3;Non;Non;Non;60,0;Non;0,0;Non;Oui;Comme il faut;1
+H;60;Marie;Retraite;Cadre;Non;1;1;Oui;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;60;Veuf;Retraite;Employe de bureau;Non;6;9;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;69;Marie;Retraite;Ouvrier specialise;Non;4;2;Oui;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;72;Veuf;Autre inactif;Ouvrier qualifie;Non;2;2;Oui;Non;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;81;Veuf;Au foyer;Employe de bureau;Non;6;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;49;Divorce;Autre inactif;Technicien;Non;6;0;Non;Non;Non;300,0;Non;0,0;Non;Oui;Comme il faut;0
+F;45;Marie;Autre inactif;Non concerne;Non;1;4;Non;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;46;Celibataire;Exerce profession;Technicien;Non;6;0;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;35;Celibataire;Exerce profession;Non concerne;Non;2;0;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;73;Marie;Retraite;Ouvrier qualifie;Non;1;3;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;59;Marie;Exerce profession;Ouvrier qualifie;Non;5;6;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;44;Divorce;Exerce profession;Ouvrier qualifie;Non;3;1;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;36;Celibataire;Exerce profession;Cadre;Non;1;2;Non;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+H;20;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;33;Divorce;Exerce profession;Employe de bureau;Non;4;1;Non;Non;Non;120,0;Non;60,0;Non;Non;Comme il faut;1
+H;79;Marie;Retraite;Ouvrier qualifie;Non;3;5;Non;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;60;Veuf;Retraite;Ouvrier specialise;Non;2;2;Oui;Oui;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+H;66;Divorce;Au foyer;Non concerne;Non;4;0;Oui;Oui;Non;420,0;Non;180,0;Non;Non;Comme il faut;0
+F;41;Marie;Exerce profession;Cadre;Non;1;2;Oui;Oui;Oui;0,0;Non;0,0;Non;Oui;Pas assez;1
+H;53;Marie;Exerce profession;Cadre;Non;3;2;Oui;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;47;Marie;Autre inactif;Ouvrier qualifie;Non;0;4;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;61;Divorce;Retraite;Cadre;Non;3;1;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;39;Divorce;Exerce profession;Profession intermediaire;Non;2;1;Oui;Oui;Oui;180,0;Oui;120,0;Non;Non;Pas assez;1
+H;35;Celibataire;Exerce profession;Employe de bureau;Non;3;0;Non;Oui;Oui;300,0;Non;0,0;Non;Non;Pas assez;0
+F;53;Marie;Exerce profession;Ouvrier qualifie;Non;5;2;Non;Oui;Non;34,29;Non;0,0;Non;Non;Comme il faut;1
+F;61;Marie;Retraite;Employe de bureau;Non;5;3;Oui;Oui;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+H;39;Celibataire;Exerce profession;Ouvrier specialise;Non;3;0;Non;Non;Non;480,0;Non;0,0;Oui;Non;Comme il faut;0
+H;41;Marie;Exerce profession;Profession intermediaire;Non;2;1;Non;Non;Oui;60,0;Non;0,0;Non;Oui;Pas assez;1
+F;34;Marie;Exerce profession;Cadre;Non;2;0;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Comme il faut;0
+H;58;Marie;Retraite;Ouvrier qualifie;Non;3;3;Oui;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;60;Marie;Exerce profession;Cadre;Non;3;2;Oui;Oui;Oui;34,29;Non;0,0;Non;Oui;Comme il faut;1
+F;56;Marie;Retraite;Employe de bureau;Non;3;1;Oui;Oui;Oui;120,0;Non;60,0;Non;Non;Comme il faut;1
+F;32;Celibataire;Exerce profession;Employe de bureau;Non;5;4;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;43;Celibataire;Exerce profession;Employe de bureau;Non;1;1;Oui;Non;Non;0,0;Non;0,0;Non;Oui;Pas assez;1
+H;68;Marie;Retraite;Autre;Non;1;4;Oui;Non;Non;360,0;Non;0,0;Non;Non;Pas assez;1
+H;36;Marie;Exerce profession;Non concerne;Non;1;2;Non;Non;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;41;Marie;Exerce profession;Technicien;Non;3;2;Oui;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;24;Celibataire;Exerce profession;Technicien;Non;3;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;59;Marie;Autre inactif;Cadre;Non;6;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;22;Celibataire;Exerce profession;Profession intermediaire;Non;3;0;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;0
+F;44;Marie;Chomeur;Autre;Non;1;2;Non;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;70;Marie;Retraite;Cadre;Non;0;4;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;23;Celibataire;Exerce profession;Employe de bureau;Non;6;0;Non;Oui;Oui;0,0;Non;0,0;Non;Oui;Trop;0
+H;52;Divorce;Chomeur;Ouvrier qualifie;Non;4;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+H;40;Marie;Exerce profession;Non concerne;Non;5;3;Non;Non;Non;120,0;Non;0,0;Oui;Non;Comme il faut;1
+F;50;Marie;Exerce profession;Employe de bureau;Non;4;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;45;Marie;Exerce profession;Cadre;Non;3;4;Oui;Oui;Non;25,71;Non;0,0;Non;Non;Comme il faut;1
+H;71;Marie;Retraite;Ouvrier qualifie;Non;5;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;38;Divorce;Exerce profession;Employe de bureau;Non;1;2;Oui;Non;Non;240,0;Non;0,0;Non;Oui;Comme il faut;1
+H;55;Marie;Exerce profession;Ouvrier qualifie;Non;2;2;Oui;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;44;Marie;Retraite;Employe de bureau;Non;2;1;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+H;25;Celibataire;Exerce profession;Ouvrier qualifie;Non;2;0;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;70;Marie;Retraite;Ouvrier qualifie;Non;3;2;Oui;Non;Oui;0,0;Non;0,0;Non;Non;Pas assez;1
+F;24;Celibataire;Chomeur;Employe de bureau;Non;2;0;Non;Oui;Oui;240,0;Non;0,0;Non;Oui;Comme il faut;0
+F;40;Marie;Exerce profession;Cadre;Non;2;2;Oui;Oui;Oui;120,0;Non;120,0;Non;Non;Pas assez;1
+F;84;Veuf;Retraite;Employe de bureau;Non;5;5;Non;Oui;Non;300,0;Non;0,0;Non;Oui;Pas assez;1
+F;55;Divorce;Exerce profession;Employe de bureau;Non;4;1;Oui;Oui;Non;120,0;Non;0,0;Non;Oui;Pas assez;1
+F;29;Celibataire;Exerce profession;Employe de bureau;Non;8;1;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;22;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Non;Oui;0,0;Non;0,0;Non;Non;Pas assez;0
+H;29;Celibataire;Chomeur;Profession intermediaire;Non;1;0;Non;Oui;Oui;360,0;Non;0,0;Non;Non;Comme il faut;0
+F;74;Veuf;Au foyer;Non concerne;Non;1;4;Non;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+H;30;Celibataire;Exerce profession;Ouvrier qualifie;Non;3;0;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Pas assez;0
+H;34;Celibataire;Exerce profession;Cadre;Non;1;0;Non;Non;Oui;0,0;Non;25,71;Non;Non;Comme il faut;0
+F;57;Marie;Exerce profession;Non concerne;Non;1;4;Oui;Oui;Non;0,0;Non;60,0;Non;Non;Pas assez;1
+H;50;Marie;Chomeur;Ouvrier qualifie;Non;7;5;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;56;Marie;Exerce profession;Technicien;Non;5;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;36;Celibataire;Exerce profession;Employe de bureau;Non;3;1;Oui;Oui;Oui;120,0;Non;0,0;Non;Oui;Pas assez;1
+F;56;Veuf;Autre inactif;Ouvrier specialise;Non;8;12;Oui;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;48;Marie;Exerce profession;Employe de bureau;Non;2;1;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;41;Marie;Exerce profession;Cadre;Non;2;3;Oui;Oui;Oui;42,86;Non;0,0;Non;Non;Comme il faut;1
+H;74;Marie;Retraite;Ouvrier qualifie;Non;1;3;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;28;Marie;Exerce profession;Cadre;Non;2;1;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;26;Celibataire;Exerce profession;Ouvrier qualifie;Non;7;0;Non;Non;Non;10,0;Non;240,0;Non;Oui;Pas assez;0
+F;42;Celibataire;Exerce profession;Employe de bureau;Non;2;2;Oui;Non;Non;0,0;Non;0,0;Non;Oui;Pas assez;1
+F;74;Marie;Autre inactif;Non concerne;Non;2;2;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;53;Marie;Exerce profession;Ouvrier specialise;Non;1;3;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;50;Marie;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+H;42;Marie;Exerce profession;Ouvrier specialise;Non;3;4;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;42;Celibataire;Exerce profession;Cadre;Non;1;0;Non;Non;Oui;0,0;Non;60,0;Non;Non;Comme il faut;0
+F;20;Celibataire;Chomeur;Employe de bureau;Non;4;0;Non;Oui;Non;780,0;Non;0,0;Oui;Oui;Pas assez;0
+H;21;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Oui;60,0;Non;120,0;Non;Oui;Comme il faut;0
+H;36;Celibataire;Exerce profession;Cadre;Non;2;0;Non;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;69;Celibataire;Retraite;Profession intermediaire;Non;2;0;Oui;Non;Non;360,0;Non;0,0;Non;Non;Comme il faut;0
+H;48;Celibataire;Exerce profession;Ouvrier qualifie;Non;4;0;Non;Non;Non;180,0;Non;60,0;Non;Non;Comme il faut;0
+F;52;Marie;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;19;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Oui;Oui;Oui;25,71;Non;0,0;Non;Non;Comme il faut;0
+H;26;Marie;Exerce profession;Profession intermediaire;Non;2;0;Oui;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;0
+F;57;Divorce;Autre inactif;Employe de bureau;Non;1;1;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;55;Marie;Exerce profession;Employe de bureau;Non;1;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;28;Celibataire;Autre inactif;Ouvrier specialise;Non;7;3;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;64;Divorce;Retraite;Profession intermediaire;Non;1;2;Non;Non;Non;0,0;Non;60,0;Non;Non;Pas assez;1
+H;37;Marie;Exerce profession;Profession intermediaire;Non;3;1;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;22;Celibataire;Exerce profession;Ouvrier specialise;Non;6;0;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;0
+H;52;Marie;Chomeur;Ouvrier specialise;Non;7;4;Non;Non;Non;300,0;Non;120,0;Non;Non;Comme il faut;1
+F;33;Marie;Exerce profession;Employe de bureau;Non;6;3;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;70;Marie;Retraite;Ouvrier specialise;Non;11;11;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;53;Marie;Exerce profession;Technicien;Non;4;4;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;50;Marie;Autre inactif;Non concerne;Non;2;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Trop;1
+H;25;Celibataire;Exerce profession;Cadre;Non;2;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;39;Marie;Exerce profession;Ouvrier qualifie;Non;4;1;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;35;Marie;Exerce profession;Profession intermediaire;Non;0;2;Oui;Oui;Non;0,0;Non;60,0;Non;Non;Comme il faut;1
+F;25;Celibataire;Etudiant;Non concerne;formation initiale;3;0;Non;Oui;Non;308,57;Non;0,0;Oui;Non;Pas assez;0
+H;40;Marie;Exerce profession;Ouvrier qualifie;Non;2;1;Non;Non;Non;17,14;Non;0,0;Non;Non;Comme il faut;1
+F;55;Divorce;Exerce profession;Non concerne;Non;4;1;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;61;Veuf;Exerce profession;Cadre;Non;3;1;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;43;Divorce;Chomeur;Employe de bureau;Non;4;2;Non;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;53;Marie;Exerce profession;Cadre;Non;5;3;Non;Oui;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;28;Marie;Exerce profession;Technicien;Non;5;1;Non;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;68;Veuf;Retraite;Ouvrier specialise;Non;2;1;Oui;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;78;Veuf;Au foyer;Non concerne;Non;4;0;Non;Oui;Non;180,0;Non;0,0;Non;Oui;Pas assez;0
+H;43;Celibataire;Chomeur;Cadre;Non;19;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;0
+H;35;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Non;Oui;17,14;Non;0,0;Non;Non;Comme il faut;0
+H;30;Marie;Exerce profession;Employe de bureau;Non;8;0;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;47;Marie;Exerce profession;Employe de bureau;Non;9;4;Non;Oui;Non;60,0;Non;34,29;Non;Non;Pas assez;1
+H;50;Divorce;Exerce profession;Employe de bureau;Non;1;1;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;38;Celibataire;Exerce profession;Non concerne;Non;2;0;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;68;Marie;Retraite;Employe de bureau;Non;1;4;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;18;Celibataire;Etudiant;Non concerne;formation initiale;5;0;Non;Non;Oui;0,0;Non;0,0;Non;Non;Pas assez;0
+H;69;Marie;Retraite;Profession intermediaire;Non;5;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;43;Celibataire;Exerce profession;Autre;Non;1;0;Non;Oui;Non;85,71;Non;128,57;Non;Oui;Pas assez;0
+H;31;Marie;Exerce profession;Profession intermediaire;Non;7;2;Non;Oui;Oui;420,0;Non;0,0;Non;Non;Comme il faut;1
+H;43;Marie;Exerce profession;Technicien;Non;1;1;Oui;Oui;Oui;120,0;Oui;60,0;Non;Non;Comme il faut;1
+F;63;Marie;Retraite;Employe de bureau;Non;3;3;Oui;Oui;Non;120,0;Non;180,0;Non;Non;Comme il faut;1
+H;37;Celibataire;Autre inactif;Ouvrier specialise;Non;0;0;Non;Non;Non;180,0;Non;0,0;Oui;Non;Comme il faut;0
+F;62;Marie;Retraite;Ouvrier specialise;Non;6;0;Oui;Non;Non;300,0;Non;0,0;Non;Non;Pas assez;0
+H;61;Marie;Exerce profession;Ouvrier qualifie;Non;10;2;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;18;Celibataire;Chomeur;Non concerne;Non;5;0;Non;Non;Oui;300,0;Non;0,0;Non;Non;Comme il faut;0
+H;46;Marie;Exerce profession;Cadre;Non;4;4;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;36;Divorce;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;1
+F;68;Marie;Retraite;Employe de bureau;Non;9;3;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;24;Celibataire;Exerce profession;Technicien;Non;5;0;Oui;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;70;Marie;Retraite;Ouvrier specialise;Non;4;8;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;61;Marie;Retraite;Ouvrier qualifie;Non;4;7;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;44;Marie;Exerce profession;Cadre;Non;6;3;Non;Oui;Oui;34,29;Non;42,86;Non;Non;Comme il faut;1
+H;53;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Oui;Oui;Non;0,0;Non;0,0;Non;Oui;Comme il faut;0
+H;30;Marie;Exerce profession;Ouvrier qualifie;Non;3;4;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;44;Marie;Exerce profession;Ouvrier qualifie;Non;3;2;Non;Non;Non;480,0;Non;0,0;Non;Non;Comme il faut;1
+F;50;Marie;Exerce profession;Employe de bureau;Non;1;1;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;37;Celibataire;Exerce profession;Non concerne;Non;2;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;36;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Non;Non;120,0;Non;0,0;Oui;Non;Pas assez;0
+F;37;Marie;Exerce profession;Employe de bureau;Non;3;1;Oui;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;66;Celibataire;Retraite;Employe de bureau;Non;2;1;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;70;Veuf;Autre inactif;Profession intermediaire;Non;2;3;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;46;Marie;Chomeur;Ouvrier specialise;Non;8;2;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;70;Marie;Au foyer;Non concerne;Non;1;4;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;43;Marie;Exerce profession;Employe de bureau;Non;4;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Marie;Exerce profession;Employe de bureau;Non;8;4;Non;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;45;Marie;Exerce profession;Employe de bureau;Non;6;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;73;Marie;Retraite;Ouvrier qualifie;Non;4;3;Non;Non;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+F;39;Celibataire;Exerce profession;Employe de bureau;Non;1;1;Oui;Non;Non;180,0;Oui;60,0;Non;Non;Comme il faut;1
+F;45;Veuf;Exerce profession;Non concerne;Non;4;4;Oui;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;56;Marie;Autre inactif;Technicien;Non;1;3;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;52;Marie;Exerce profession;Profession intermediaire;Non;8;4;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;62;Marie;Au foyer;Non concerne;Non;1;5;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;68;Marie;Retraite;Cadre;Non;1;3;Oui;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;35;Marie;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Oui;0,0;Non;0,0;Non;Oui;Comme il faut;1
+H;35;Celibataire;Exerce profession;Ouvrier qualifie;Non;0;2;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;22;Marie;Exerce profession;Technicien;Non;0;1;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;19;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Oui;Oui;120,0;Non;0,0;Non;Oui;Pas assez;0
+H;68;Marie;Retraite;Profession intermediaire;Non;6;3;Oui;Non;Oui;120,0;Non;120,0;Non;Oui;Comme il faut;1
+F;53;Divorce;Exerce profession;Technicien;Non;1;1;Oui;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;46;Marie;Exerce profession;Ouvrier qualifie;Non;4;2;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;49;Marie;Exerce profession;Employe de bureau;Non;1;3;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;72;Veuf;Autre inactif;Ouvrier specialise;Non;5;6;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;43;Marie;Exerce profession;Ouvrier qualifie;Non;3;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;48;Marie;Autre inactif;Employe de bureau;Non;8;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Divorce;Exerce profession;Employe de bureau;Non;2;3;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;63;Marie;Retraite;Technicien;Non;1;1;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Marie;Exerce profession;Employe de bureau;Non;5;5;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;48;Marie;Exerce profession;Profession intermediaire;Non;4;1;Oui;Non;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+F;50;Marie;Exerce profession;Employe de bureau;Non;1;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;55;Marie;Exerce profession;Employe de bureau;Non;7;3;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;47;Marie;Exerce profession;Technicien;Non;1;4;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Pas assez;1
+F;48;Marie;Exerce profession;Employe de bureau;Non;9;3;Oui;Oui;Oui;25,71;Non;0,0;Non;Non;Pas assez;1
+H;52;Celibataire;Exerce profession;Ouvrier specialise;Non;2;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;48;Marie;Autre inactif;Ouvrier qualifie;Non;2;2;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;47;Marie;Exerce profession;Employe de bureau;Non;5;2;Non;Non;Non;17,14;Non;0,0;Non;Non;Pas assez;1
+F;67;Marie;Retraite;Technicien;Non;9;2;Oui;Non;Oui;240,0;Non;0,0;Non;Non;Pas assez;1
+H;52;Celibataire;Autre inactif;Ouvrier specialise;Non;2;0;Non;Non;Non;0,0;Non;480,0;Non;Non;Comme il faut;0
+H;51;Marie;Exerce profession;Cadre;Non;2;2;Oui;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;74;Veuf;Autre inactif;Employe de bureau;Non;1;1;Oui;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;20;Celibataire;Etudiant;Non concerne;formation initiale;4;0;Non;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;0
+H;23;Celibataire;Etudiant;Ouvrier specialise;Non;4;0;Non;Non;Non;600,0;Non;0,0;Non;Non;Comme il faut;0
+F;49;Celibataire;Exerce profession;Employe de bureau;Non;2;2;Non;Non;Oui;120,0;Non;60,0;Non;Oui;Comme il faut;1
+F;21;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Non;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;0
+H;39;Marie;Exerce profession;Ouvrier qualifie;Non;4;1;Non;Non;Non;240,0;Non;0,0;Non;Oui;Comme il faut;1
+F;38;Veuf;Autre inactif;Ouvrier qualifie;Non;3;6;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;46;Marie;Exerce profession;Employe de bureau;Non;8;3;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;26;Marie;Exerce profession;Profession intermediaire;Non;1;1;Oui;Non;Oui;180,0;Non;60,0;Non;Oui;Comme il faut;1
+H;47;Marie;Exerce profession;Cadre;Non;1;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;69;Divorce;Retraite;Employe de bureau;Non;1;2;Non;Oui;Non;120,0;Non;180,0;Non;Non;Comme il faut;1
+H;76;Marie;Retraite;Cadre;Non;1;6;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;72;Divorce;Retraite;Non concerne;Non;2;0;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;0
+F;68;Veuf;Retraite;Employe de bureau;Non;3;2;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;40;Celibataire;Exerce profession;Technicien;Non;1;1;Oui;Oui;Non;120,0;Oui;94,29;Non;Non;Pas assez;1
+H;32;Marie;Exerce profession;Cadre;Non;0;1;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;46;Celibataire;Exerce profession;Employe de bureau;Non;4;0;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;0
+F;74;Marie;Retraite;Employe de bureau;Non;0;1;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;39;Marie;Exerce profession;Profession intermediaire;Non;3;2;Non;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;35;Celibataire;Autre inactif;Ouvrier specialise;Non;6;0;Non;Non;Oui;300,0;Non;0,0;Non;Non;Comme il faut;0
+F;42;Marie;Autre inactif;Profession intermediaire;Non;8;3;Non;Oui;Non;60,0;Non;60,0;Non;Oui;Comme il faut;1
+H;66;Marie;Au foyer;Cadre;Non;2;2;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;39;Marie;Exerce profession;Profession intermediaire;Reprise de formation;2;2;Non;Oui;Oui;180,0;Non;0,0;Non;Oui;Comme il faut;1
+F;29;Marie;Exerce profession;Profession intermediaire;Non;1;0;Non;Oui;Oui;0,0;Non;0,0;Oui;Oui;Comme il faut;0
+H;65;Veuf;Retraite;Profession intermediaire;Non;0;1;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;49;Divorce;Exerce profession;Employe de bureau;Non;4;3;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;73;Marie;Retraite;Employe de bureau;Non;2;2;Oui;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;63;Marie;Autre inactif;Ouvrier specialise;Non;9;4;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;27;Marie;Exerce profession;Employe de bureau;Non;2;1;Non;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;1
+F;27;Marie;Exerce profession;Employe de bureau;Non;1;0;Oui;Oui;Oui;60,0;Non;17,14;Non;Non;Comme il faut;0
+H;39;Divorce;Exerce profession;Employe de bureau;Non;3;1;Non;Non;Non;600,0;Non;0,0;Non;Non;Comme il faut;1
+F;57;Marie;Autre inactif;Employe de bureau;Non;1;2;Non;Non;Oui;300,0;Non;0,0;Non;Non;Pas assez;1
+H;26;Celibataire;Chomeur;Ouvrier specialise;Non;3;0;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;41;Divorce;Exerce profession;Ouvrier qualifie;Non;3;2;Non;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;81;Marie;Retraite;Cadre;Non;2;4;Non;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;1
+F;37;Marie;Exerce profession;Cadre;Non;2;3;Non;Oui;Oui;0,0;Non;0,0;Non;Oui;Comme il faut;1
+H;57;Marie;Autre inactif;Non concerne;Non;2;4;Non;Non;Non;180,0;Non;0,0;Non;Non;Pas assez;1
+F;42;Marie;Exerce profession;Employe de bureau;Non;0;3;Non;Non;Non;180,0;Oui;60,0;Non;Non;Pas assez;1
+H;45;Divorce;Exerce profession;Non concerne;Non;1;4;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;22;Celibataire;Exerce profession;Employe de bureau;Non;5;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;0
+H;53;Celibataire;Retraite;Ouvrier specialise;Non;1;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;72;Marie;Retraite;Cadre;Non;3;1;Oui;Oui;Oui;60,0;Non;180,0;Non;Oui;Comme il faut;1
+F;88;Veuf;Retraite;Profession intermediaire;Non;10;5;Non;Oui;Non;120,0;Non;0,0;Non;Oui;Pas assez;1
+F;65;Veuf;Retraite;Employe de bureau;Non;1;4;Non;Non;Non;720,0;Non;0,0;Non;Non;Comme il faut;1
+F;51;Marie;Exerce profession;Employe de bureau;Non;2;3;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;36;Marie;Exerce profession;Employe de bureau;Non;2;0;Non;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;0
+H;35;Celibataire;Exerce profession;Ouvrier qualifie;Non;7;0;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;42;Marie;Exerce profession;Ouvrier qualifie;Non;1;3;Oui;Non;Oui;180,0;Non;0,0;Non;Oui;Comme il faut;1
+F;53;Marie;Exerce profession;Cadre;Non;1;1;Oui;Oui;Oui;0,0;Non;0,0;Non;Oui;Pas assez;1
+F;38;Marie;Chomeur;Ouvrier qualifie;Non;4;2;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;53;Marie;Exerce profession;Profession intermediaire;Non;1;3;Non;Non;Non;0,0;Non;25,71;Non;Non;Comme il faut;1
+F;61;Marie;Retraite;Employe de bureau;Non;4;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;30;Celibataire;Exerce profession;Ouvrier qualifie;Non;6;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;46;Celibataire;Autre inactif;Employe de bureau;Non;5;5;Oui;Oui;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+H;58;Marie;Retraite;Ouvrier qualifie;Non;2;1;Non;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;81;Veuf;Retraite;Employe de bureau;Non;1;6;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;23;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Oui;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;0
+H;32;Marie;Exerce profession;Ouvrier qualifie;Non;6;0;Non;Non;Non;120,0;Non;0,0;Non;Oui;Comme il faut;0
+H;45;Celibataire;Autre inactif;Non concerne;Non;3;0;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;35;Marie;Exerce profession;Employe de bureau;Non;2;4;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;49;Marie;Exerce profession;Non concerne;Non;5;2;Non;Oui;Non;0,0;Non;17,14;Non;Oui;Pas assez;1
+F;57;Divorce;Exerce profession;Employe de bureau;Non;2;2;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;39;Marie;Exerce profession;Technicien;Non;0;2;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;45;Divorce;Chomeur;Ouvrier qualifie;Non;2;1;Non;Oui;Non;900,0;Non;0,0;Non;Non;Pas assez;1
+H;57;Marie;Chomeur;Profession intermediaire;Non;2;2;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;77;Veuf;Retraite;Ouvrier specialise;Non;8;6;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Autre inactif;Employe de bureau;Non;2;1;Non;Oui;Non;300,0;Non;60,0;Non;Non;Pas assez;1
+H;47;Marie;Exerce profession;Employe de bureau;Non;3;1;Non;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;36;Marie;Exerce profession;Employe de bureau;Non;3;2;Oui;Oui;Non;600,0;Non;0,0;Non;Non;Comme il faut;1
+F;19;Celibataire;Etudiant;Non concerne;formation initiale;3;0;Oui;Non;Oui;300,0;Non;0,0;Non;Non;Comme il faut;0
+H;61;Marie;Au foyer;Non concerne;Non;8;3;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;67;Marie;Au foyer;Non concerne;Non;2;0;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;32;Marie;Exerce profession;Technicien;Non;0;1;Non;Non;Oui;300,0;Non;0,0;Oui;Non;Pas assez;1
+F;81;Marie;Au foyer;Non concerne;Non;0;5;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;29;Celibataire;Exerce profession;Ouvrier qualifie;Non;1;0;Oui;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;0
+F;28;Marie;Exerce profession;Employe de bureau;Reprise de formation;2;1;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;27;Celibataire;Etudiant;Employe de bureau;Reprise de formation;1;0;Non;Oui;Oui;180,0;Non;0,0;Non;Oui;Comme il faut;0
+H;23;Celibataire;Exerce profession;Employe de bureau;Non;4;0;Non;Non;Oui;0,0;Non;0,0;Oui;Non;Comme il faut;0
+H;69;Veuf;Retraite;Employe de bureau;Non;2;3;Non;Non;Oui;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;42;Celibataire;Exerce profession;Ouvrier qualifie;Non;3;4;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+H;24;Celibataire;Exerce profession;Ouvrier qualifie;Non;2;0;Non;Non;Oui;25,71;Non;0,0;Non;Non;Pas assez;0
+H;63;Marie;Retraite;Cadre;Non;1;2;Oui;Oui;Oui;17,14;Non;0,0;Non;Non;Comme il faut;1
+H;69;Marie;Au foyer;Non concerne;Non;4;1;Non;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+F;58;Marie;Autre inactif;Employe de bureau;Non;7;2;Non;Oui;Non;180,0;Non;0,0;Non;Oui;Pas assez;1
+F;57;Marie;Exerce profession;Non concerne;Non;4;2;Non;Oui;Non;17,14;Non;0,0;Non;Non;Comme il faut;1
+F;42;Marie;Exerce profession;Ouvrier specialise;Non;4;0;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;20;Celibataire;Chomeur;Employe de bureau;Non;5;0;Non;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;70;Marie;Retraite;Profession intermediaire;Non;1;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;57;Marie;Retraite;Non concerne;Non;2;2;Oui;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;52;Marie;Exerce profession;Cadre;formation initiale;2;3;Non;Non;Non;0,0;Non;0,0;Non;Oui;Comme il faut;1
+F;55;Veuf;Exerce profession;Ouvrier specialise;Non;4;3;Non;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;58;Marie;Autre inactif;Non concerne;Non;3;3;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;49;Marie;Autre inactif;Autre;Non;4;3;Oui;Oui;Non;180,0;Oui;51,43;Non;Non;Pas assez;1
+H;39;Celibataire;Exerce profession;Employe de bureau;Non;3;1;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;37;Divorce;Exerce profession;Ouvrier qualifie;Non;6;2;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+H;70;Marie;Retraite;Profession intermediaire;Non;3;1;Oui;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;24;Celibataire;Chomeur;Ouvrier specialise;Non;8;0;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;71;Marie;Au foyer;Non concerne;Non;7;2;Oui;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;46;Marie;Exerce profession;Ouvrier qualifie;Non;7;3;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;63;Marie;Retraite;Cadre;Non;2;2;Oui;Oui;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+F;39;Divorce;Exerce profession;Profession intermediaire;Non;1;2;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;33;Marie;Exerce profession;Ouvrier qualifie;Non;2;3;Oui;Non;Non;257,14;Non;0,0;Non;Non;Comme il faut;1
+F;40;Marie;Autre inactif;Employe de bureau;Non;1;5;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+H;28;Celibataire;Exerce profession;Cadre;Non;2;0;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;0
+H;22;Celibataire;Exerce profession;Ouvrier qualifie;Non;1;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;76;Marie;Au foyer;Non concerne;Non;0;1;Non;Non;Non;120,0;Non;120,0;Non;Non;Pas assez;1
+F;78;Divorce;Retraite;Cadre;Non;3;0;Non;Oui;Non;360,0;Non;0,0;Non;Non;Pas assez;0
+F;53;Veuf;Autre inactif;Ouvrier qualifie;Non;1;3;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;39;Marie;Exerce profession;Cadre;Non;5;3;Oui;Non;Oui;300,0;Non;0,0;Non;Non;Pas assez;1
+F;69;Marie;Retraite;Employe de bureau;Non;1;5;Non;Non;Oui;0,0;Non;0,0;Non;Oui;Pas assez;1
+F;75;Marie;Autre inactif;Technicien;Non;1;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;40;Marie;Exerce profession;Employe de bureau;Non;4;2;Non;Non;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;39;Celibataire;Exerce profession;Employe de bureau;Non;1;0;Non;Non;Non;120,0;Non;0,0;Non;Non;Pas assez;0
+F;82;Veuf;Retraite;Employe de bureau;Non;1;7;Oui;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;37;Marie;Exerce profession;Ouvrier qualifie;Non;4;2;Non;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;54;Celibataire;Exerce profession;Cadre;Non;1;3;Non;Non;Oui;60,0;Non;60,0;Non;Non;Comme il faut;1
+F;60;Marie;Chomeur;Employe de bureau;Non;7;3;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+H;46;Marie;Exerce profession;Technicien;Non;2;3;Non;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;18;Celibataire;Etudiant;Non concerne;formation initiale;1;0;Non;Non;Oui;60,0;Non;0,0;Non;Non;Comme il faut;0
+F;41;Marie;Chomeur;Employe de bureau;Non;4;4;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;47;Marie;Autre inactif;Employe de bureau;Non;13;5;Non;Oui;Non;240,0;Non;0,0;Non;Oui;Comme il faut;1
+H;57;Marie;Exerce profession;Ouvrier qualifie;Non;6;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;43;Marie;Exerce profession;Cadre;Non;0;2;Oui;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;56;Marie;Exerce profession;Cadre;Non;6;1;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;75;Veuf;Autre inactif;Non concerne;Non;5;1;Oui;Oui;Non;420,0;Non;0,0;Non;Non;Pas assez;1
+H;66;Marie;Retraite;Cadre;Non;1;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Pas assez;1
+F;77;Veuf;Retraite;Employe de bureau;Non;11;1;Non;Non;Non;600,0;Non;0,0;Non;Non;Pas assez;1
+F;34;Divorce;Chomeur;Ouvrier specialise;Non;3;3;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;52;Divorce;Exerce profession;Technicien;Non;3;3;Non;Oui;Non;120,0;Non;0,0;Non;Oui;Comme il faut;1
+F;39;Veuf;Exerce profession;Employe de bureau;Non;11;2;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;51;Divorce;Exerce profession;Employe de bureau;Non;3;1;Non;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;80;Veuf;Retraite;Employe de bureau;Non;3;3;Oui;Oui;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;74;Veuf;Retraite;Ouvrier specialise;Non;0;5;Non;Oui;Non;120,0;Non;0,0;Non;Non;Pas assez;1
+F;20;Marie;Autre inactif;Non concerne;Non;4;1;Non;Oui;Oui;300,0;Non;0,0;Non;Non;Pas assez;1
+F;49;Celibataire;Exerce profession;Ouvrier specialise;Non;3;2;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;30;Celibataire;Exerce profession;Cadre;Non;0;0;Non;Non;Oui;0,0;Non;0,0;Oui;Oui;Comme il faut;0
+H;58;Marie;Exerce profession;Autre;Non;7;2;Oui;Non;Non;120,0;Non;0,0;Non;Oui;Pas assez;1
+H;59;Marie;Retraite;Profession intermediaire;Non;2;2;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Celibataire;Autre inactif;Employe de bureau;Non;13;2;Oui;Non;Oui;0,0;Non;0,0;Non;Non;Pas assez;1
+F;68;Marie;Retraite;Employe de bureau;Non;1;3;Non;Non;Non;180,0;Non;120,0;Non;Oui;Comme il faut;1
+F;32;Marie;Exerce profession;Employe de bureau;Non;2;2;Oui;Oui;Non;240,0;Non;60,0;Non;Non;Pas assez;1
+F;36;Marie;Exerce profession;Employe de bureau;Non;3;2;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+H;56;Marie;Exerce profession;Non concerne;Non;0;2;Non;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Marie;Autre inactif;Cadre;Non;2;4;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;46;Veuf;Exerce profession;Employe de bureau;Non;8;3;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;82;Marie;Au foyer;Non concerne;Non;0;3;Oui;Non;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+F;81;Veuf;Retraite;Employe de bureau;Non;0;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;39;Marie;Exerce profession;Employe de bureau;Non;4;3;Oui;Oui;Oui;120,0;Non;0,0;Non;Oui;Pas assez;1
+H;50;Divorce;Exerce profession;Employe de bureau;Non;7;2;Oui;Non;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;48;Divorce;Exerce profession;Cadre;Non;2;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;54;Marie;Exerce profession;Non concerne;Non;4;2;Non;Oui;Non;120,0;Non;17,14;Non;Non;Comme il faut;1
+F;34;Marie;Autre inactif;Employe de bureau;Non;0;2;Oui;Oui;Oui;120,0;Non;0,0;Non;Oui;Comme il faut;1
+H;54;Marie;Exerce profession;Non concerne;Non;9;2;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;29;Celibataire;Exerce profession;Employe de bureau;Non;2;0;Non;Non;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;54;Divorce;Exerce profession;Employe de bureau;Non;4;3;Non;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+F;24;Celibataire;Chomeur;Employe de bureau;Non;7;1;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;52;Marie;Chomeur;Ouvrier specialise;Non;2;1;Non;Oui;Non;240,0;Non;0,0;Non;Non;Comme il faut;1
+H;53;Marie;Exerce profession;Profession intermediaire;Non;8;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+H;69;Marie;Retraite;Cadre;Non;1;5;Non;Oui;Oui;60,0;Non;0,0;Non;Non;Comme il faut;1
+H;26;Marie;Exerce profession;Technicien;Non;1;1;Non;Oui;Non;240,0;Non;0,0;Non;Non;Pas assez;1
+F;80;Veuf;Retraite;Ouvrier specialise;Non;2;3;Non;Non;Non;300,0;Non;240,0;Non;Non;Comme il faut;1
+H;40;Marie;Exerce profession;Ouvrier qualifie;Non;3;1;Non;Oui;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;47;Marie;Exerce profession;Non concerne;Non;8;3;Oui;Non;Non;60,0;Non;34,29;Non;Non;Comme il faut;1
+H;36;Marie;Exerce profession;Ouvrier qualifie;Non;5;2;Oui;Oui;Non;102,86;Non;0,0;Non;Non;Comme il faut;1
+F;19;Celibataire;Etudiant;Non concerne;formation initiale;0;0;Non;Non;Oui;42,86;Non;0,0;Non;Oui;Comme il faut;0
+H;70;Celibataire;Autre inactif;Ouvrier specialise;Non;7;0;Oui;Non;Non;600,0;Non;180,0;Non;Non;Comme il faut;0
+F;50;Marie;Exerce profession;Cadre;Non;1;2;Non;Non;Non;60,0;Oui;60,0;Non;Non;Pas assez;1
+H;86;Marie;Retraite;Ouvrier qualifie;Non;11;5;Oui;Non;Non;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;44;Celibataire;Exerce profession;Ouvrier qualifie;Non;5;0;Oui;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;78;Marie;Retraite;Ouvrier specialise;Non;8;1;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;54;Divorce;Exerce profession;Technicien;Non;1;1;Oui;Non;Non;0,0;Non;0,0;Non;Non;Pas assez;1
+H;24;Marie;Exerce profession;Ouvrier qualifie;Non;2;1;Oui;Oui;Oui;120,0;Non;0,0;Non;Non;Pas assez;1
+H;58;Marie;Exerce profession;Cadre;Non;1;2;Oui;Non;Non;60,0;Non;0,0;Non;Non;Comme il faut;1
+F;20;Celibataire;Etudiant;Non concerne;formation initiale;2;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+F;76;Marie;Retraite;Ouvrier qualifie;Non;2;3;Oui;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;38;Divorce;Exerce profession;Profession intermediaire;Non;4;2;Non;Non;Non;120,0;Non;0,0;Non;Non;Comme il faut;1
+F;38;Marie;Exerce profession;Cadre;Non;1;2;Oui;Non;Oui;17,14;Non;0,0;Non;Oui;Comme il faut;1
+F;30;Marie;Exerce profession;Employe de bureau;Non;5;0;Non;Oui;Oui;180,0;Non;0,0;Non;Non;Comme il faut;0
+F;74;Veuf;Retraite;Employe de bureau;Non;1;2;Non;Non;Oui;180,0;Non;0,0;Non;Non;Pas assez;1
+F;67;Marie;Retraite;Technicien;Non;2;2;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+F;40;Marie;Autre inactif;Non concerne;Non;3;3;Oui;Oui;Oui;60,0;Non;0,0;Non;Oui;Trop;1
+F;35;Divorce;Chomeur;Employe de bureau;Non;7;1;Non;Oui;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;49;Marie;Chomeur;Ouvrier specialise;Non;4;5;Non;Non;Non;360,0;Non;0,0;Non;Non;Comme il faut;1
+H;63;Marie;Autre inactif;Cadre;Non;1;4;Non;Non;Non;180,0;Non;0,0;Non;Non;Comme il faut;1
+H;27;Celibataire;Exerce profession;Employe de bureau;Non;4;0;Non;Oui;Oui;120,0;Non;0,0;Non;Non;Comme il faut;0
+H;37;Marie;Autre inactif;Employe de bureau;Non;3;4;Non;Oui;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;73;Marie;Au foyer;Employe de bureau;Non;1;2;Oui;Oui;Oui;0,0;Non;0,0;Non;Non;Comme il faut;1
+H;94;Veuf;Au foyer;Non concerne;Non;6;1;Non;Non;Non;300,0;Non;0,0;Non;Non;Comme il faut;1
+F;52;Veuf;Exerce profession;Employe de bureau;Non;3;1;Non;Non;Oui;300,0;Non;0,0;Non;Non;Comme il faut;1
